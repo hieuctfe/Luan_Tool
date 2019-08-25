@@ -1,0 +1,2541 @@
+RESTful API server started on: \\.\pipe\3ceacbd6-d237-4887-ad79-7d9ca647387f
+vo duoc res
+swagonyou166
+19800 '6783' '1592'
+
+UNISEX CLOTHES (@swagonyou166) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 23,
+    accountId: 'swagonyou166',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: VIP 800k x 4 tháng \r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 4/7/2019 TT 19k7\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: Ảnh này đẹp quá! 😍 Bên mình chuyên áo quần và phụ kiện unisex, bạn dành vài giây vào shop tham khảo xem nha!❤️\r\n\r\n🎯TAGET: _lu.store, tobi.streetwear, zune.zx\r\n⚠️TAGET ĐÃ CHẠY: \r\n_lu.storePart1',
+    number: 1,
+    accStatus: 'mau5' } ]
+vo duoc res
+fevrierphoto
+9804 1108 196
+
+Février Photography (@fevrierphoto) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 44,
+    accountId: 'fevrierphoto',
+    link: null,
+    serverId: '173',
+    note:
+     '🛒GÓI: 10k\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: lên 13.800\r\n*************************************\r\n📌NOTE: TAGET NGƯỚC NGOÀI, CHẠY TỆP KHÁCH\r\n✍CMT: \r\n🎯TAGET: \r\nbisousparis\r\ntheparisphotographer\r\nparis_photographer\r\nparis_photographer_dimitri\r\nkissinpariscom\r\nphotographerinparis\r\nannayakovleva_com\r\noui.photo\r\nparis.vacations\r\nkseniakuznetsovaphotography\r\nparis_photo_love\r\nvideoparis\r\noui.photo\r\nfrenchgreyphotography\r\nparis_photo_love\r\nlisab_paris\r\nparis_photo_yulez\r\nmaria_kryvobok\r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\nphotographerinparisPart4\r\ntheparisphotographerPart6\r\nparis_photographer_dimitriPart9\r\noui.photoPart1\r\n',
+    number: 1,
+    accStatus: 'Not yet' } ]
+vo duoc res
+homihouse
+7013 7041 469
+
+Homi House (@homihouse) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 61,
+    accountId: 'homihouse',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 800 (4tháng)\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 8/9/2019\t Tối thiểu 7k7\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: mojivn,ocsenshop\r\n\r\n⚠️TAGET ĐÃ CHẠY: jumaastorePart4\r\n100.sapa.storePart8\r\nocsenshopPart8\r\nthejoey.accessoriesPart4\r\n05.hera.storePart10\r\nblinky.skinPart5\r\nmojivnPart2',
+    number: 7,
+    accStatus: 'mau5' } ]
+vo duoc res
+Luas.saigon
+22000 '7515' '2045'
+
+🦄 Kiehls Sài Gòn 💋 (@luas.saigon) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 62,
+    accountId: 'Luas.saigon',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 2k Follower lên 22k follower\r\n👔CSKH: LUÂN\r\n📆NGÀY HẾT GÓI: \r\n*************************************\r\n📌NOTE:\r\n✍CMT: \r\n🎯TAGET: skincarebykim, the_nail_box_e.beautylab\r\n⚠️TAGET ĐÃ CHẠY: \r\nskincarebykimPart1\r\nbandarsayaPart1\r\nsheisvnpart1\r\nmaywaxing.hcmPart9',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+ngo.mix
+9959 7036 583
+
+NGÒ (Clothing & Accessories) (@ngo.mix) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 65,
+    accountId: 'ngo.mix',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: LÊN 12k2\r\n*************************************\r\n📌NOTE:\r\n\r\n✍️CMT: \r\n\r\n🎯TAGET:\r\nceci.house,22.storesg\r\n __thebelle__\r\nmalyta_shop\r\ncactus.clothing.sg\r\nsovintage_house\r\n\r\n⚠️TAGET ĐÃ CHẠY:\r\n100.sapa.storePart7\r\nblinky.skinPart4\r\nmaywaxing.hcmPart10\r\ncactus.clothing.sgPart3\r\n05.hera.storePart5\r\n18.mery.storePart7\r\nTomato.store404Part2',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+stellacontactlens
+35900 '2082' '843'
+
+Stella Contact Lens (@stellacontactlens) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 72,
+    accountId: 'stellacontactlens',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 40k300\r\n*************************************\r\n📌NOTE:\r\n\r\n✍️CMT: \r\n\r\n🎯TAGET: \r\nlensnice.japan\r\ntn_contactlenses\r\n_pauline.lens\r\nsuon.lens\r\nfireflies.acc\r\nchani.house\r\njuly.accessorize\r\nthejoey.accessories\r\naccessories.basic\r\nnovembre.accessory\r\nChanh.jewelry \r\nDaisy.jewelry\r\nKlaujw \r\nThewingsilver \r\nNhinhi.jewelry \r\n\r\n⚠️TAGET ĐÃ CHẠY:\r\nsuon.lensPart3\r\nmyphamlovebeautyPart5\r\nbaotran.cenlyPart5\r\n03.lani.storePart7\r\n05.hera.storePart6\r\nsuon.lensPart6\r\ntn_contactlensesPart3\r\n_pauline.lensPart2\r\nyens.roomPart3\r\nloveandmakeup.usPart1\r\ntrue.cosmesticPart7\r\n7.jane.storePart6\r\n',
+    number: 9999,
+    accStatus: 'mau5' } ]
+vo duoc res
+anhphuongshop66
+7683 5990 721
+
+Love Your Skin❤️ (@anhphuongshop66) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 74,
+    accountId: 'anhphuongshop66',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 800k x 4 Tháng\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 20/8/2019\tTT 7600\r\n*************************************\r\n📌NOTE:   ig củ  trananhphuong66   Nhanh khỏi quét tệp\r\n\r\n✍CMT: Góc Làm Đẹp Thiên Nhiên của Anh Phương 🍀🍀\r\n\r\n🎯TAGET: thêm Target : be.cosmetic\t\t\t\r\n@october_inme , @vienngheosala , @lemonade_cosmeticsvn,@ksii.official,@matnatuoi.xinhlamcoi,@nord.hadmadecosmetics,@_chanhchaushop,@lysbeautycare\r\n\r\n⚠️TAGET ĐÃ CHẠY: 05.hera.storePart5',
+    number: 99,
+    accStatus: 'mau2' } ]
+vo duoc res
+Deviltaste
+30200 '4678' 10500
+
+Order USA and France (@deviltaste) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 77,
+    accountId: 'Deviltaste',
+    link: null,
+    serverId: '173',
+    note:
+     '🛒GÓI: gói 5k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: lên 31k\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n⚠️TAGET ĐÃ CHẠY: \r\ntrue.cosmesticPart2\r\nyens.roomPart6\r\n18.mery.storePart4\r\nnastygal.90sPart1\r\nHanghieugiasi1992Part1',
+    number: 99,
+    accStatus: 'mau2' } ]
+vo duoc res
+Romadstorebag
+5319 4106 256
+
+Romad Store (@romadstorebag) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 96,
+    accountId: 'Romadstorebag',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 12k5\r\n*************************************\r\n📌NOTE:\r\n✍CMT: Túi-Ví-Nịt-Balo Da Free ship toàn quốc. Bảo hành suốt quá trình sử dụng”\r\n🎯TAGET:  tuixachLeeandtee\r\n⚠️TAGET ĐÃ CHẠY: \r\n18.mery.storePart5\r\nLeeandteedanangPart1\r\n05.hera.storePart3 khách báo nc ngoài',
+    number: 39,
+    accStatus: 'mau1' } ]
+vo duoc res
+nhakho2handbmt
+5530 4924 1673
+
+Nhakho2handBmt (@nhakho2handbmt) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 100,
+    accountId: 'nhakho2handbmt',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 20k Fl\r\nFB: Nguyễn Kim Oanh\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:   Tối thiểu: 23k9\r\n*************************************\r\n📌NOTE:\r\n✍CMT: \r\n🎯TAGET: Hightcut.vitage giay2hand.store\r\n⚠️TAGET ĐÃ CHẠY: \r\nHanghieugiasi1992Part2\r\nSneakers.oopPart2\r\n100.sapa.storePart3',
+    number: 99999,
+    accStatus: 'mau5' } ]
+vo duoc res
+skinlabofficial_
+5489 4416 3
+
+𝗕𝗘 𝗧𝗥𝗨𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗦𝗞𝗜𝗡 🦋 (@skinlabofficial_) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 101,
+    accountId: 'skinlabofficial_',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k Follower\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 10k\r\n*************************************\r\n📌NOTE:\r\n✍CMT: \r\n🎯TAGET: Giới tính: Nữ- Nam.Khu vực Tp.Hcm- Đà Nẵng-Nha Trang-một số tỉnh miền Tây( An Giang-Bến Tre-Tiền Giang-Cần Thơ)\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 42,
+    accStatus: 'mau1' } ]
+vo duoc res
+sneakerswithney
+20000 '4627' '690'
+
+SNEAKERS® with NEY (@sneakerswithney) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 106,
+    accountId: 'sneakerswithney',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: VIP 800k\r\n👔CSKH: LUÂN\r\n📆NGÀY HẾT GÓI: 19k900\r\n*************************************\r\n📌NOTE: đua tốc độ           delay\r\n✍CMT: \r\n🎯TAGET: \r\ncity_culturee\r\nminhshop.vn\r\nsaigonsneakerstore\r\nholesneakers\r\nquét lại taget củ\r\n⚠️TAGET ĐÃ CHẠY: \r\ncity_cultureePart4\r\nminhshop.vnPart2\r\nsaigonsneakerstorePart2\r\nyee_clothingPart3\r\n100.sapa.storePart5\r\ndonghokydoPart7\r\n05.hera.storePart6\r\nbaotran.cenlyPart6\r\nholesneakersPart2\r\ntdung.trPart4\r\nholesneakersPart6\r\nkayla.store98Part8\r\nbralette.boutiquePart2\r\ntrue.cosmesticPart5',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+Xixi.official
+28800 '1888' '4932'
+
+ĐỌC HIGHLIGHT TRƯỚC KHI MUA⛔️ (@xixi.official) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 122,
+    accountId: 'Xixi.official',
+    link: null,
+    serverId: '207',
+    note:
+     '🛒GÓI TT 600 * 5 tháng\r\n👔CSKH: LUÂN\r\n📆NGÀY HẾT GÓI: 19/1/2020\t\r\n*************************************\r\n📌NOTE: Nhanh OEM\r\n\r\n✍CMT: \r\n🎯TAGET:\r\n⚠️TAGET ĐÃ CHẠY: \r\n100.sapa.storePart4\r\ngaams.storePart4\r\nviin.clubPart2\r\nprettyshoes.storePart4\r\nmaywaxing.hcmPart11\r\n18.mery.storePart5\r\nscandal.brandPart2\r\nyens.roomPart7\r\n10.noji.housePart6\r\nmike__storePart1\r\ntrue.cosmesticPart2',
+    number: 999,
+    accStatus: 'Not yet' } ]
+vo duoc res
+mar.originals
+21600 '7352' '531'
+
+MAR ORIGINALS STORE (@mar.originals) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 125,
+    accountId: 'mar.originals',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 800 ( 4 tháng )\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI: 23/07/2019 TT 22k400\r\n*************************************\r\n📌NOTE: id ig củ mar_originals\r\n\r\n✍CMT: \r\n🎯TAGET: xam_store, cauchunho_originals, hypebeastvn.store, stevestore.vn\r\n⚠️TAGET ĐÃ CHẠY: \r\n18.mery.storePart5\r\n100.sapa.storePart5\r\nstevestore.vnPart6\r\ncauchunho_originalPart2\r\nblinky.skinPart6\r\nhypebeastvn.storePart3\r\nperlaamiaPart10\r\n05.hera.storePart4\r\nTomato.store404Part2',
+    number: 58,
+    accStatus: 'mau1' } ]
+vo duoc res
+adelinehouse_singaporeorders
+19200 '2260' '6722'
+
+ORDER SINGAPORE SINCE 2015 (@adelinehouse_singaporeorders) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 127,
+    accountId: 'adelinehouse_singaporeorders',
+    link: null,
+    serverId: '193',
+    note:
+     '🛒GÓI 1000 thường\r\n📩FB: Sevia Lee\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: 19k500\r\n*************************************\r\n📌NOTE:khách củ gia hạn\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ',
+    number: 29,
+    accStatus: 'mau1' } ]
+vo duoc res
+theyri.sg
+5458 4520 5521
+
+💯GIÁ TỐT NHẤT INSTAR💯 (@theyri.sg) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 141,
+    accountId: 'theyri.sg',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 20k\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI: 20k fl\r\n*************************************\r\n📌NOTE: nhanh\r\n\r\n✍CMT: \r\n🎯TAGET: \r\n"Tomato.store404\r\nmai.chocopai\r\nb_store.vn\r\nmickey_storee\r\nchitchit_vnxk\r\nhion.store\r\ntheshoes.cloud"\r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\n18.mery.storePart7\r\nTomato.store404Part2\r\n05.hera.storePart5',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+youngmedia.pro
+7310 3205 485
+
+Tư Vấn Tăng Đơn Tăng Doanh Số (@youngmedia.pro) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 177,
+    accountId: 'youngmedia.pro',
+    link: null,
+    serverId: '127',
+    note:
+     'youngmedia.pro\r\ntam123\r\n\r\nrur=ATN; mid=XNZEngAAAAHEgMLOxRoz4J8ftqE3; csrftoken=7ctINR2uc6COWuBDMIbKJ6Ux2lz1HTUq; shbid=3335; shbts=1557546152.4647605; ds_user_id=8496050996; sessionid=8496050996%3AOQjQdjia4p1Rva%3A2; ig_sdc=8496050996; urlgen="{\\"58.187.171.11\\": 18403}:1hPIuC:qn_E0SEPfw0u6cgfF_wBngCwpM0"; ',
+    number: 2,
+    accStatus: null } ]
+vo duoc res
+tps.vn
+35800 '5652' '2138'
+
+SNEAKERS / CLOTHING & MORE... (@tps.vn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 184,
+    accountId: 'tps.vn',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 3k FL VIP\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 36k400\r\n*************************************\r\n📌NOTE: Thêm like và cmt trong sv Fplus\r\n\r\n✍CMT: TPS đang có chương trình BIGSALE ở story. Ghé qua ngay nhé mọi người ơi\r\n\r\n🎯TAGET:  hypebeastvn.store, gaia.luxury.store, sneaker.beatt, hoanghuydao_ , kingofparis__\r\n⚠️TAGET ĐÃ CHẠY: Sneakers.oopPart2',
+    number: 1,
+    accStatus: 'Not yet' } ]
+vo duoc res
+n68_store
+9979 422 247
+
+KẸP TÓC - VÒNG TAY GIÁ TỐT (@n68_store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 204,
+    accountId: 'n68_store',
+    link: null,
+    serverId: '205',
+    note:
+     '🛒GÓI: 800k x 4 tháng\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 12/8/2019\tTT 9k7\r\n*************************************\r\n📌NOTE:\r\n\r\n✍️CMT: \r\n\r\n🎯TAGET: hàng phụ kiện,accessories\r\n\r\n⚠️TAGET ĐÃ CHẠY:\r\nsheisvnPart2\r\ndantrangrang_crest3dPart2',
+    number: 5,
+    accStatus: 'Not yet' } ]
+vo duoc res
+NQ30_store
+13700 '1872' '888'
+
+NQ30_store (@nq30_store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 215,
+    accountId: 'NQ30_store',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI TT 600 \r\n📩FB: Như Như\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 27/8/2019\t\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: Ghé trang shop để xem đồ đẹp và hot nhé ạ ❤️\r\n\r\n🎯TAGET: ',
+    number: 60,
+    accStatus: 'Not yet' } ]
+vo duoc res
+thesneakerholicvn
+47800 '3274' '310'
+
+The Sneakerholic (@thesneakerholicvn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 225,
+    accountId: 'thesneakerholicvn',
+    link: null,
+    serverId: '192',
+    note:
+     '🛒GÓI TT 600 \r\n📩FB: Duy Lê\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: 31/8/2019\t\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: k.menswear.fashion,5thewayvietnam,tummachines,highway_menswear,ellemanvietnam,swe.sg,ssstutter,missout.clo,chuottrangshop,ssstutter,thinker.dreamer.coffee',
+    number: 70,
+    accStatus: 'mau7' } ]
+vo duoc res
+julyemstore0702
+21900 '1735' '4006'
+
+ĐÁ TỰ NHIÊN PHONG THỦY 100% (@julyemstore0702) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 240,
+    accountId: 'julyemstore0702',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI TT 600 \r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: 22/8/2019\t\r\n*************************************\r\n📌NOTE: Nhanh  đủ ngày thì ngưng\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ddreamer.vn, mirason.vn\r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\nscandal.brandPart1',
+    number: 59,
+    accStatus: 'Not yet' } ]
+vo duoc res
+xxlipstickstoree
+36500 '6415' '3092'
+
+US - KOREAN - JAPAN (@xxlipstickstoree) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 242,
+    accountId: 'xxlipstickstoree',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: VIP 800k ( 4 tháng )\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: 19/10/2019\t\t\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: annana_cosmetic, katecosmetic28, cherryshop.com.vn,giamcandongy.hcm cenly.hcm\r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\nannana_cosmeticPart1\r\ntrue.cosmesticPart3\r\nbaotran.cenlyPart1',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+sulli.store
+13600 '3629' '540'
+
+🎀NEW ARRIVALS EVERYDAY🎀 (@sulli.store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 249,
+    accountId: 'sulli.store',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 800k\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 13k200\t\r\n*************************************\r\n📌NOTE: Nguyên\r\n\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: rever.accessory\r\ncap nhật thêm trong page\r\n\r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\n100.sapa.storePart2\r\nsugar.and.cotton\r\nkawaiibae.acc\r\n_maysshop_\r\nchani.house\r\nthelittleowl.vn\r\nyens.roomPart6\r\n03.lani.storePart3',
+    number: 3,
+    accStatus: 'mau1' } ]
+vo duoc res
+suchi.nail
+5730 2482 1341
+
+Suchi Nail.Hairwash.Massage (@suchi.nail) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 262,
+    accountId: 'suchi.nail',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI: 1k vip\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 6k555\r\n*************************************\r\n📌NOTE: NHANH\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: nailroom_mithouse\r\nletty.beauty\r\nnzim.nails\r\nlamia.beauty\r\n\r\n⚠️TAGET ĐÃ CHẠY: np_brows_lashesPart5\r\ntdung.trPart6\r\nlamia.beautyPart2\r\nletty.beautyPart1\r\ntrue.cosmesticPart1\r\nblinky.skinPart8\r\n03.lani.storePart8\r\n7.jane.storePart8\r\nAmint.vietnammPart4',
+    number: 10,
+    accStatus: 'mau1' } ]
+vo duoc res
+prettylilaccessories
+8927 7515 438
+
+Pretty Little Accessories (@prettylilaccessories) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 269,
+    accountId: 'prettylilaccessories',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 500k x 4 tháng\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI: 17/8/2019\t  Tối thiểu 9k5\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: lấy trong page\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 40,
+    accStatus: 'mau1' } ]
+vo duoc res
+salt.store
+10300 '3383' 11400
+
+🍀 FREESHIP NỘI THÀNH TỪ 2SP🍀 (@salt.store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 276,
+    accountId: 'salt.store',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 500 x 4 tháng\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 9/9/2019\t TT 13k4\r\n*************************************\r\n📌NOTE:   Nhanh\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: meihouse.vn,libeworkshop,kidosince2011,shoppumi,talyshophcm,emmyshop.hcm\r\n\r\n⚠️TAGET ĐÃ CHẠY: b.cclothing_koreaPart2\r\ndantrangrang_crest3dPart4\r\nbeu_closetPart6\r\nyens.roomPart3\r\noanh_shopPart3',
+    number: 999,
+    accStatus: 'mau1' } ]
+vo duoc res
+sallystorevn
+7671 3019 3564
+
+GIFT CHANEL (@sallystorevn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 283,
+    accountId: 'sallystorevn',
+    link: null,
+    serverId: '205',
+    note:
+     '🛒GÓI:  800\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:  7k632\r\n*************************************\r\n📌NOTE: Loc giới tính: nữ\r\n\r\n✍CMT:  Hàng tuồn giá rẻ - ghé shop nhé\r\n\r\n🎯TAGET: TÚI XÁCH\r\n\r\n⚠️TAGET ĐÃ CHẠY: 03.lani.store\r\n05.hera.storePart9\r\ntuixach.irisPart3\r\nblinky.skinPart2\r\n20.michi.storePart4\r\ntiemhoa.qualaPart2\r\nflora_cosmeticsPart4',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+np.studio_
+29400 '2733' '250'
+
+PHỤ KIỆN CHO DÂN CHƠI 🔥 (@np.studio_) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 287,
+    accountId: 'np.studio_',
+    link: null,
+    serverId: '207',
+    note:
+     '🛒GÓI TT600 x 3\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 21/10/2019\t\r\n*************************************\r\n📌NOTE: Chạy thêm cmt like cho có tương tác\r\n\r\n✍CMT: các dân chơi ghé shop xem phụ kiện nha 🔥\r\nphụ kiện cho dân chơi, ghé shop mua phụ kiện diện outfit for today\r\n\r\n\r\n🎯TAGET: \r\nMybodymyrules.vn, Theblackchain.sg, Pauvies.baestore, Dirtycoins.studio, 5thewayvietnam\r\n\r\nMybodymyrules.vn\r\nTheblackchain.sg\r\nPauvies.baestore\r\nDirtycoins.studio\r\nSpoonkybabysaigon \r\nNymeostore \r\nMorethandope_sg\r\n\r\n⚠️TAGET ĐÃ CHẠY: 5thewayvietnamPart4\r\n100.sapa.storePart5\r\nPauvies.baestorePart6\r\nblinky.skinPart4\r\n05.hera.storePart10\r\nNymeostorePart3\r\nSummercomesticsPart2\r\n5thewayvietnamPart3 nc ngoài\r\nShopbotgiamcanPart5',
+    number: 999,
+    accStatus: 'Not yet' } ]
+vo duoc res
+that.is.girl.shop
+8428 6584 285
+
+🅣🅗🅐🅣’🅢 🅖🅘🅡🅛 🅢🅗🅞🅟 (@that.is.girl.shop) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 291,
+    accountId: 'that.is.girl.shop',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 800\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI: 14 THÁNG 7   TT 9k022\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: thêm target : whattowear.vn\r\n\r\nheybee.clothing, dun.clothing, sixty.eightt, lilyboutique05, 20decemberjeans\r\n\r\n⚠️TAGET ĐÃ CHẠY: TOOL VIP\r\n05.hera.storePart6\r\n20decemberjeansPart4\r\nb.cclothing_koreaPart4',
+    number: 25,
+    accStatus: 'mau1' } ]
+vo duoc res
+soulbond.hn
+5349 2671 184
+
+SOULBOND (@soulbond.hn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 317,
+    accountId: 'soulbond.hn',
+    link: null,
+    serverId: '182',
+    note:
+     '🛒GÓI: 800k\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 5k744\r\n*************************************\r\n📌NOTE: id củ folder.official\r\n\r\n✍CMT:  sự kiện giảm giá cực HOT tại SOULBOND cho các đơn hàng mua lần đầu 😍🔥 BUY NOW OR CRY LATER 😎\r\n\r\n🎯TAGET: Chuchimstore\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'mau7' } ]
+vo duoc res
+heo_anvatonline
+6987 5225 345
+
+BÁNH TRÁNG 🍻 BÁNH MIX NỘI ĐỊA (@heo_anvatonline) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 371,
+    accountId: 'heo_anvatonline',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 500k x 4 tháng\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:  13/9/2019\t\tTT  9k220\r\n*************************************\r\n📌NOTE:\r\n✍CMT: \r\n🎯TAGET: Foodgarden.box,Taiwan_foodvn,Banhdailoanyummy,Banhsuachua.sg,Pinkysnacky\r\n⚠️TAGET ĐÃ CHẠY: 22.chichi.storePart3\r\nBanhdailoanyummyPart4\r\nBanhsuachua.sgPart2\r\n\r\n',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+kachi.glass
+720 2974 19
+
+@kachi.glass • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 376,
+    accountId: 'kachi.glass',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 9,
+    accStatus: 'mau5' } ]
+vo duoc res
+infinity.accessoriess
+219 694 101
+
+@infinity.accessoriess • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 377,
+    accountId: 'infinity.accessoriess',
+    link: null,
+    serverId: '209',
+    note:
+     'cowm.20Part3\r\ntarotbyveiPart3\r\nluxuryvn.storePart2\r\nprettyshoes.storePart5\r\nbaotran.cenlyPart10\r\nscandal.brandPart2\r\n\r\n',
+    number: 119,
+    accStatus: 'Not yet' } ]
+vo duoc res
+flower.workshoppp
+659 3224 21
+
+@flower.workshoppp • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 378,
+    accountId: 'flower.workshoppp',
+    link: null,
+    serverId: '171',
+    note: 'chặn tính năng\r\n\r\n\r\n\r\n',
+    number: 36,
+    accStatus: 'mau5' } ]
+vo duoc res
+bum.workshopp
+744 1890 20
+
+@bum.workshopp • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 379,
+    accountId: 'bum.workshopp',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 46,
+    accStatus: 'mau5' } ]
+vo duoc res
+Cher.glass
+816 2213 20
+
+Cher.glass (@cher.glass) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 389,
+    accountId: 'Cher.glass',
+    link: null,
+    serverId: '179',
+    note: null,
+    number: 999,
+    accStatus: 'mau4' } ]
+vo duoc res
+Theophilia.store
+743 1071 18
+
+Theophilia.store (@theophilia.store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 408,
+    accountId: 'Theophilia.store',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 48,
+    accStatus: 'mau5' } ]
+vo duoc res
+Ceridwen.bra
+3383 6654 23
+
+Ceridwen.bra (@ceridwen.bra) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 414,
+    accountId: 'Ceridwen.bra',
+    link: null,
+    serverId: '206',
+    note: 'Người bấm: Nguyên',
+    number: 3,
+    accStatus: 'Not yet' } ]
+vo duoc res
+hebe.bra
+1655 2626 20
+
+@hebe.bra • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 417,
+    accountId: 'hebe.bra',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 9999,
+    accStatus: 'Not yet' } ]
+vo duoc res
+kiera.shoes
+3326 6563 21
+
+Kiera Shoes (@kiera.shoes) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 420,
+    accountId: 'kiera.shoes',
+    link: null,
+    serverId: '206',
+    note: 'Người bấm: Nguyên',
+    number: 2,
+    accStatus: 'Not yet' } ]
+vo duoc res
+nove.vnxkk
+719 3412 11
+
+@nove.vnxkk • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 431,
+    accountId: 'nove.vnxkk',
+    link: null,
+    serverId: '171',
+    note: 'chặn tính năng\r\n\r\n',
+    number: 34,
+    accStatus: 'mau5' } ]
+vo duoc res
+Converse.store_
+9608 814 321
+
+Converse Việt Nam (@converse.store_) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 447,
+    accountId: 'Converse.store_',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k follow\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 10k\r\n*************************************\r\n📌NOTE:\r\n✍CMT: \r\n🎯TAGET: Wear.vietnam\r\n⚠️TAGET ĐÃ CHẠY: \r\n ',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+you.but.better
+4530 4503 1006
+
+You But Better (YBB) (@you.but.better) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 509,
+    accountId: 'you.but.better',
+    link: null,
+    serverId: '182',
+    note:
+     '🛒GÓI: 800k\r\n👔CSKH: Cường \r\n📆NGÀY HẾT GÓI: 11 tháng 7 - 2019\r\n*************************************\r\n📌NOTE:\r\n 4/5/2019\t đổi tệp, dính nước ngoài, lấy target rosiebeaute, bonita_beauty389a\r\n✍CMT: \r\n🎯TAGET:   thêm target : giathuy.pc\r\n thammyxuanhuong,meolamdep_\r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\n',
+    number: 41,
+    accStatus: 'mau7' } ]
+vo duoc res
+emcosmetic.vn
+5612 4677 123
+
+🔮MỸ PHẨM CAO CẤP TP WHITE🔮 (@emcosmetic.vn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 517,
+    accountId: 'emcosmetic.vn',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k lên 11k300 follower\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: \r\n*************************************\r\n📌NOTE:  emcosmetic.vn củ\r\n✍CMT: \r\n\r\n🎯TAGET: : \r\n\r\n⚠️TAGET ĐÃ CHẠY: \r\n',
+    number: 7,
+    accStatus: 'mau1' } ]
+vo duoc res
+Lily.workshoppp
+2255 3714 15
+
+Lily.workshoppp (@lily.workshoppp) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 528,
+    accountId: 'Lily.workshoppp',
+    link: null,
+    serverId: '206',
+    note: null,
+    number: 6,
+    accStatus: 'Not yet' } ]
+vo duoc res
+Karla.shoess
+2295 4348 21
+
+Karla Shoes (@karla.shoess) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 558,
+    accountId: 'Karla.shoess',
+    link: null,
+    serverId: '206',
+    note: null,
+    number: 4,
+    accStatus: 'Not yet' } ]
+vo duoc res
+mah_sweetie
+3431 4030 163
+
+Mah Sweetie (@mah_sweetie) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 572,
+    accountId: 'mah_sweetie',
+    link: null,
+    serverId: '192',
+    note:
+     '🛒GÓI: 800k x 4 tháng\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 10/8/2019\tTối Thiểu 4k\r\n*************************************\r\n📌NOTE: Đổi chủ tk chưa thấy liên hệ lại \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 9999,
+    accStatus: 'mau5' } ]
+vo duoc res
+lio.accessoriess
+907 1246 135
+
+@lio.accessoriess • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 594,
+    accountId: 'lio.accessoriess',
+    link: null,
+    serverId: '209',
+    note: null,
+    number: 0,
+    accStatus: 'Not yet' } ]
+vo duoc res
+dahliabeauty.official
+19700 '6007' '845'
+
+SHOP RẤT DỄ THƯƠNG 🐼 (@dahliabeauty.official) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 640,
+    accountId: 'dahliabeauty.official',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k + 800k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:\t Tối thiểu 23k900\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\nforeveryounglipstick.official\r\n_christina.cosmetics\r\nQtskincare\r\nda69station\r\nheartyourskin\r\nnatthy_kiss\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 66,
+    accStatus: 'mau1' } ]
+vo duoc res
+dta.authentic
+4483 5037 681
+
+DTA.authentic (@dta.authentic) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 644,
+    accountId: 'dta.authentic',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 800k x 4 tháng\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: 5k882\r\n*************************************\r\n📌NOTE:  delay\r\n\r\n✍CMT: View my story u wont regret it! , dễ thương quá , follow page bạn sẽ không hối tiếc đâu , . . . .\r\n\r\n🎯TAGET: kingofparis , kingofparis_deluxe, stevestore.vn , thankinhgiay, hnbmg\t\t\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+summer.beats
+2500 933 61
+
+🍊 𝚂𝚞𝚖𝚖𝚎𝚛 𝚋𝚎𝚊𝚝𝚜 🍊 (@summer.beats) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 651,
+    accountId: 'summer.beats',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:  Tối thiểu 5k\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n \r\n🎯TAGET: thêm target : dim.secondhand oldgarden2hand\t\t\t\r\nkhách thêm Target : dorrystore_,n.clothing14\r\nbishop.dn,chihea.sayhappy\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 9999,
+    accStatus: 'mau5' } ]
+vo duoc res
+giaykhanhhuyen
+2543 476 181
+
+Nguyễn Khánh Huyền (@giaykhanhhuyen) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 657,
+    accountId: 'giaykhanhhuyen',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:  Tối thiểu 5k\r\n*************************************\r\n📌NOTE: nhanh\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+kinhaptronglensoptic
+3981 4245 187
+
+Kính Áp Tròng Lens Optic (@kinhaptronglensoptic) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 680,
+    accountId: 'kinhaptronglensoptic',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:  Tối thiểu 10k2\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: NHI\r\n\r\n🎯TAGET: seed.vietnam, lens_ xoan, lensfogirlss, dolleye.vn, caras_lens\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 3,
+    accStatus: 'mau1' } ]
+vo duoc res
+chaiko96
+20400 '1575' '406'
+
+🔥CHỊ MÊ GYM BÁN YẾN MẠCH🔥 (@chaiko96) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 681,
+    accountId: 'chaiko96',
+    link: null,
+    serverId: '193',
+    note:
+     '🛒GÓI: 1k\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:   20k800\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: "cenly.vietnam \r\nnguyenthilyboss\r\nI.like.you.1994"\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+cenly.thuctrinh
+2222 2074 511
+
+GIẢM CÂN CENLY - HCM (@cenly.thuctrinh) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 682,
+    accountId: 'cenly.thuctrinh',
+    link: null,
+    serverId: '182',
+    note:
+     '🛒GÓI: TT 600 ( 2thang)\r\n📩FB: Võ Thục Trinh\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:  11/9/2019\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: cenly.organic.vn , baotran.cenly , lethao.jan , suong_cenly , ngoctram_cenly',
+    number: 4,
+    accStatus: 'mau8' } ]
+vo duoc res
+mr.dy8101
+343 2425 51
+
+ظاهرمرادی (@mr.dy8101) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 704,
+    accountId: 'mr.dy8101',
+    link: null,
+    serverId: '179',
+    note: null,
+    number: 999,
+    accStatus: 'mau4' } ]
+https://instagram.com/jhousesg
+vo duoc res
+Abaustore
+2056 5727 571
+
+ORDER GUANGZHOU by Abau Store (@abaustore) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 724,
+    accountId: 'Abaustore',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:  Tối thiểu 2k3\r\n*************************************\r\n📌NOTE: 24/6/2019 die nick lux_stor3 đổi nick Abaustore còn 2312 follower chưa hoàn thành 😛\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: hongkong.byl,vnxkstore,order.bytuminh\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+jhousesg
+3730 1892 578
+
+ỐP LƯNG CÁC DÒNG ĐIỆN THOẠI (@jhousesg) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1604,
+    accountId: 'jhousesg',
+    link: null,
+    serverId: '11',
+    note:
+     '🛒GÓI 500\r\n📩FB: Nguyễn Ngọc Gia Mẫn\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI:  3677\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ',
+    number: 999,
+    accStatus: null } ]
+vo duoc res
+authenticorder
+9448 1296 15700
+
+Order Authentic (@authenticorder) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 725,
+    accountId: 'authenticorder',
+    link: null,
+    serverId: '181',
+    note:
+     '🛒GÓI TT 600 ( 2 tháng )\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: 22/9/2019\t\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: uratv,urbangirl_sg,watchesbytif,clothing.tkk\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 52,
+    accStatus: 'mau7' } ]
+vo duoc res
+bapandfriends_official
+13600 '1051' '403'
+
+Bắp & Friends 🖐🏻 (@bapandfriends_official) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 730,
+    accountId: 'bapandfriends_official',
+    link: null,
+    serverId: '192',
+    note:
+     '🛒GÓI: 800k \r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:  13k500\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: _b.corner_,mojivn,moji.idol,moji.case\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 2,
+    accStatus: 'Not yet' } ]
+vo duoc res
+quinshop.vn
+14300 '7174' '545'
+
+Quinshop.vn (@quinshop.vn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 734,
+    accountId: 'quinshop.vn',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 10k\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI:  Tối thiểu 14k5\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: beautyforlady.store,of.trongveo,daudaucosmetics,mint_cosmetics,beautyboxbyloveat1stshine\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 38,
+    accStatus: 'Not yet' } ]
+vo duoc res
+peachyswimwear.co
+14400 '2067' '186'
+
+Peachy Swimwear (@peachyswimwear.co) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 740,
+    accountId: 'peachyswimwear.co',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI: 18k800\r\n*************************************\r\n📌NOTE:\r\n\r\n✍️CMT: \r\n\r\n🎯TAGET:  nhanh\r\n\r\n⚠️TAGET ĐÃ CHẠY:\r\nsanvajulie_cosmeticsPart6\r\ntunime.storePart3\r\n100.sapa.storePart5\r\n05.hera.storePart5\r\n03.lani.storePart6\r\nblinky.skinPart6\r\n_.bralette._Part5\r\nAmint.vietnammPart5\r\nuyenhihiiPart5\r\n7.jane.storePart7',
+    number: 99,
+    accStatus: 'mau5' } ]
+vo duoc res
+b.s.closet
+3229 2296 1090
+
+HEALTHY AND BEAUTY (@b.s.closet) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 747,
+    accountId: 'b.s.closet',
+    link: null,
+    serverId: '205',
+    note:
+     '🛒GÓI TT 600 \r\n📩FB: Võ Trinn\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI: 15/8/2019\t\r\n*************************************\r\n📌NOTE: Unfollow xuống 2k\r\n\r\n✍CMT: Bạn cần trị mụn, xóa thâm, trắng da mờ rạn, hiệu quả cam kết 100% bạn không nên bỏ qua 😉\r\n\r\n🎯TAGET: Be.cosmetic,Utrangcafe.98,npp.thaoruby.cenly,Thejungleherbs,Nu.cosmetic_vn',
+    number: 33,
+    accStatus: 'mau2' } ]
+vo duoc res
+shiinhouse
+10100 '6099' '2086'
+
+SHIIN  HOUSE (@shiinhouse) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 751,
+    accountId: 'shiinhouse',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:  Tối thiểu 12k\r\n*************************************\r\n📌NOTE:  16/5/2019\t  khách báo dính nước ngoài\t\t\t\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: storehouse68 , hion.store, nalee.store\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 20,
+    accStatus: 'mau1' } ]
+vo duoc res
+blackcat.mask
+6307 5315 290
+
+𝐁𝐈̀ 𝐇𝐄𝐎 𝐁𝐋𝐀𝐂𝐊 𝐂𝐀𝐓 𝐌𝐀𝐒𝐊 ✨🐷 (@blackcat.mask) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 754,
+    accountId: 'blackcat.mask',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k FL\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:\t Tối thiểu 9k5\r\n*************************************\r\n📌NOTE:  6/6/2019\tgi hạn gói 5k block tín năng chưa chạy dc\r\n\r\nNHI\r\n✍CMT: \r\n\r\n🎯TAGET: biheo.natural,vox.ngoc.traan,maskofbun,cococheoli,sulshopsaigon\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 2,
+    accStatus: 'mau1' } ]
+vo duoc res
+misoo.1996
+3086 1741 55
+
+MISOO 1996 🌸 (@misoo.1996) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 757,
+    accountId: 'misoo.1996',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI: 800\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:  6/7/2019\t\tTối thiểu 3k430\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: đổi CMT : 😍😍😍 ,  đổi target @bleubirdclothing, @rubies.sg, @fluer.studio @goutdejun @janet.studio\t\t\t\r\n\r\n🎯TAGET: hoachoem, iamcoco.official, kisserine.official, lemonchic.vn, rechicbrand\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 5,
+    accStatus: 'mau1' } ]
+vo duoc res
+tusecret.beauty
+7874 1501 254
+
+Tu's Secret (@tusecret.beauty) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 762,
+    accountId: 'tusecret.beauty',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 20k fl\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:  Tối thiểu  22k\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'mau5' } ]
+vo duoc res
+nabbhouse
+2053 2298 2712
+
+Nabbhouse (@nabbhouse) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 766,
+    accountId: 'nabbhouse',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI: 500\r\n👔CSKH: Nguyên\r\n📆NGÀY HẾT GÓI:  6/7/2019\tTối thiểu 3k1\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: pinkstore.28,cheese.wear\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 7,
+    accStatus: 'mau1' } ]
+vo duoc res
+Lelasilk
+14200 '7536' '220'
+
+LELA (@lelasilk) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 805,
+    accountId: 'Lelasilk',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl thường\r\n👔CSKH: Luân\r\n📆Tối thiểu:   17k7\r\n*************************************\r\n📌NOTE:  \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: little.thailan,shopbabymilo,hibean.kidclothes\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 19,
+    accStatus: 'mau1' } ]
+vo duoc res
+vietanhpipo
+7905 3081 385
+
+Phung Viet Anh (@vietanhpipo) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 808,
+    accountId: 'vietanhpipo',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:  Tối thiểu 10k3\r\n*************************************\r\n📌NOTE: ko cần ufl\r\n\r\n✍CMT: \r\n\r\n🎯TAGET:    target nhanh\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 15,
+    accStatus: 'mau1' } ]
+vo duoc res
+fer.ment
+3474 3401 317
+
+July Nguyen (@fer.ment) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 810,
+    accountId: 'fer.ment',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 20k\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:  Tối thiểu 21k2\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: deversitestore, richchoco.sg, forloveandvintage90s, feliza_clothing\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 17,
+    accStatus: 'mau1' } ]
+vo duoc res
+Huyn.sansalequocte
+5265 2576 1402
+
+ODER_quocte.giagoc (@huyn.sansalequocte) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 817,
+    accountId: 'Huyn.sansalequocte',
+    link: null,
+    serverId: '205',
+    note:
+     '🛒GÓI 1000 thường\r\n📩FB: Nguyễn Thanh Huyền\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI: 5k086\r\n*************************************\r\n📌NOTE: Unfl 900\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ',
+    number: 99999,
+    accStatus: 'mau2' } ]
+vo duoc res
+lalala.clothinggg
+694 1238 25
+
+Lalala Clothing (@lalala.clothinggg) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 822,
+    accountId: 'lalala.clothinggg',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 51,
+    accStatus: 'Not yet' } ]
+vo duoc res
+district.cornerr
+165 471 10
+
+@district.cornerr • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 832,
+    accountId: 'district.cornerr',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 507,
+    accStatus: 'mau5' } ]
+https://instagram.com/tinyperfume_store
+vo duoc res
+youngmedia.social
+3334 3212 123
+
+Tư Vấn Tăng Đơn Tăng Doanh Số (@youngmedia.social) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 838,
+    accountId: 'youngmedia.social',
+    link: null,
+    serverId: '127',
+    note:
+     'youngmedia.social\r\ntam123\r\n\r\nrur=ATN; mid=XNZEAAAAAAHcW2KWG0aZ1ctPie4q; csrftoken=yB8Pk5OJWkTry0ZDbPT9KpxR0AiGymHN; shbid=3335; shbts=1557545991.023019; ds_user_id=8471385457; sessionid=8471385457%3A4D5oDclXo1hw40%3A14; urlgen="{\\"58.187.171.11\\": 18403}:1hPIra:JxgSQ_h71G4eqi6ugTicbZ6b7Kc"; ',
+    number: 3,
+    accStatus: null } ]
+vo duoc res
+tangdonhang.tangdoanhthu
+3816 2303 237
+
+Tư Vấn Tăng Đơn Tăng Doanh Số (@tangdonhang.tangdoanhthu) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 840,
+    accountId: 'tangdonhang.tangdoanhthu',
+    link: null,
+    serverId: '127',
+    note:
+     'tangdoanhsobanhang\r\nthuyduong123\r\n\r\nrur=ATN; mid=XNZELgAAAAEcsCzzycCdoaaZoTo7; csrftoken=XLJjoqMLkW5cqmqfHrtLh9bnddxbptQ8; shbid=3335; shbts=1557546035.9586637; ds_user_id=11109154982; sessionid=11109154982%3AbqFfyPNe1pN4TC%3A11; urlgen="{\\"58.187.171.11\\": 18403}:1hPIsL:RoVYR4DcLhqczUFSETXCvWGfmUg"; ',
+    number: 5,
+    accStatus: null } ]
+vo duoc res
+tinyperfume_store
+994 1929 241
+
+Tiny Nguyễn (@tinyperfume_store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1605,
+    accountId: 'tinyperfume_store',
+    link: null,
+    serverId: '193',
+    note: null,
+    number: 999,
+    accStatus: null } ]
+vo duoc res
+tangfollowerviet_chatluong
+2936 2647 306
+
+Tăng Follower Việt Chất Lượng (@tangfollowerviet_chatluong) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 843,
+    accountId: 'tangfollowerviet_chatluong',
+    link: null,
+    serverId: '187',
+    note:
+     'tangfollow.tangtuongtac\r\n27325907\r\n\r\nrur=ATN; mid=XNZIrAAAAAErAbYCAf9LKuVt-Tg0; csrftoken=rHVHqfegX58lApKWC2VZraZoSQm21wLT; shbid=3335; shbts=1557547189.0186346; ds_user_id=11343739138; sessionid=11343739138%3AeS1BQieSw5vH99%3A22; urlgen="{\\"58.187.171.11\\": 18403}:1hPJNy:xWVad_YOGEx6gC2jD7jVEBGO15Q"; ',
+    number: 7,
+    accStatus: null } ]
+vo duoc res
+tangfollowerchatluong_ym
+3625 1382 333
+
+Tăng Follower Chất Lượng (@tangfollowerchatluong_ym) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 844,
+    accountId: 'tangfollowerchatluong_ym',
+    link: null,
+    serverId: '187',
+    note:
+     'tangfollowerchatluong_ym\r\n43791509\r\n\r\nrur=ATN; mid=XNZMcwAAAAFLq-ifzdgP8hvebgv4; csrftoken=Swwn2ZKbQS7L9TGhvz529MFCrC0RiFSL; shbid=3335; shbts=1557548155.3364713; ds_user_id=11459378187; sessionid=11459378187%3AxKfcZW2CxWHhpQ%3A21; urlgen="{\\"58.187.171.11\\": 18403}:1hPJQU:gD4KKxGxhsUPgQtJNVfShjH0G6E"; ',
+    number: 8,
+    accStatus: null } ]
+https://instagram.com/beautybymeo
+vo duoc res
+tangfollowerviet.chatluong
+3276 2406 312
+
+Tăng Follower Việt Chất Lượng (@tangfollowerviet.chatluong) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 846,
+    accountId: 'tangfollowerviet.chatluong',
+    link: null,
+    serverId: '187',
+    note:
+     'tangfollowerviet.chatluong\r\n41465718\r\n\r\nrur=ATN; mid=XNZMlAAAAAEZa59iUbLL6NbgT80p; csrftoken=rybGzC0N6ED4ibyYuW77VS17clqjjeLY; shbid=3335; shbts=1557548188.3524282; ds_user_id=11215339624; sessionid=11215339624%3ALntZqsuXSm99mr%3A28; urlgen="{\\"58.187.171.11\\": 18403}:1hPJR1:T7m_hNVD4XbGh8z-cE96i7BQxt0"; ',
+    number: 9,
+    accStatus: null } ]
+vo duoc res
+beautybymeo
+422 1218 36
+
+CHUYÊN MỸ PHẨM XÁCH TAY (@beautybymeo) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1606,
+    accountId: 'beautybymeo',
+    link: null,
+    serverId: '193',
+    note: null,
+    number: 999,
+    accStatus: null } ]
+vo duoc res
+amores.co
+3206 4549 319
+
+a m o r e s . C o (@amores.co) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 856,
+    accountId: 'amores.co',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu  5k712\r\n\r\n*************************************\r\n📌NOTE: Nhi\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: nina.stote.saigon,mys.sg,order.zara,thuyen.store\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 1,
+    accStatus: 'mau1' } ]
+vo duoc res
+tiemgiaycuamay
+11200 '5803' '415'
+
+TIỆM GIÀY CỦA MÂY (@tiemgiaycuamay) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 861,
+    accountId: 'tiemgiaycuamay',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k \r\n👔CSKH: Luân  \r\n📆NGÀY HẾT GÓI:      Tối thiểu    12k7\r\n  \r\n*************************************\r\n📌NOTE: 22/5/2019\t  khách báo follow nam nước ngoài nhiều\t\t\t\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: bunny.shoes,shoebeautiful,khogiay,2shoes.hn,bearscorner2\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 31,
+    accStatus: 'mau1' } ]
+vo duoc res
+nancy.hairsalon
+8668 5849 311
+
+NANCY HAIR SALON (@nancy.hairsalon) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 862,
+    accountId: 'nancy.hairsalon',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k \r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:      Tối thiểu  11k5\r\n\r\n*************************************\r\n📌NOTE:  19/5/2019\t  thêm target :  hoanhhair Độ tuổi 20 trở lên\t\t\t\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: BASS HAIR SALON, bestyle_salon, tan.Salon, minhhybeautysalon,hoanhhair\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 26,
+    accStatus: 'mau1' } ]
+vo duoc res
+blacksaint.luxy
+4966 5920 124
+
+REP 1:1 SNEAKER AND LUXURY (@blacksaint.luxy) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 873,
+    accountId: 'blacksaint.luxy',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k fl\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:      Tối thiểu  12k\r\n\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 32,
+    accStatus: 'mau1' } ]
+vo duoc res
+hi.dilys
+3381 7519 102
+
+Dilys Accessories. (@hi.dilys) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 874,
+    accountId: 'hi.dilys',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 5k fl\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:      Tối thiểu  5k\r\n\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: @imo.sg @ciuciu.store @lasun.store @velvetpink.acc \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+thu6.danang
+1746 996 45
+
+Thứ Sáu 金曜日 (@thu6.danang) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 876,
+    accountId: 'thu6.danang',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:      Tối thiểu 10k\r\n\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 999,
+    accStatus: 'Not yet' } ]
+vo duoc res
+watermelon.beautyyy
+708 1468 17
+
+@watermelon.beautyyy • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 882,
+    accountId: 'watermelon.beautyyy',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 24,
+    accStatus: 'mau5' } ]
+vo duoc res
+17.storee
+781 1088 15
+
+@17.storee • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 885,
+    accountId: '17.storee',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 47,
+    accStatus: 'mau5' } ]
+vo duoc res
+81.cornerrr
+778 1842 15
+
+@81.cornerrr • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 886,
+    accountId: '81.cornerrr',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 49,
+    accStatus: 'mau5' } ]
+vo duoc res
+tiemcuabo_
+3290 5163 223
+
+💕Tiệm Của Bơ Hàng VNXK 💕 (@tiemcuabo_) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 891,
+    accountId: 'tiemcuabo_',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI:      Tối thiểu 5k2\r\n\r\n*************************************\r\n📌NOTE:25/5/2019\tKhách báo fl nước ngoài nhiều\t\t\t\r\n\r\n✍CMT: \r\n\r\n🎯TAGET:  Khách thêm target : onlystoreofficial\t\t\t\r\n\r\nadeline.boutique,redfox_clothinghn\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 10,
+    accStatus: 'mau1' } ]
+vo duoc res
+youngcloset
+3578 6146 131
+
+🔊🔊SALE OFF 20% 💢💢 (@youngcloset) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 892,
+    accountId: 'youngcloset',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:      Tối thiểu 5k2\r\n\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: mimostudio , theciu2016, susu_hoodie\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 74,
+    accStatus: 'mau1' } ]
+vo duoc res
+taphoacuabeo
+2151 716 681
+
+@taphoacuabeo • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 894,
+    accountId: 'taphoacuabeo',
+    link: null,
+    serverId: '182',
+    note:
+     '🛒GÓI TT 600 \r\n📩FB: Khánh chi\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI: 27/8/2019\t\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: Ghé tạp hoá của Béo chơi nhé ❤️\r\n\r\n🎯TAGET: vutrangstore, felecia.closet, thebag.cloud',
+    number: 9999,
+    accStatus: 'mau5' } ]
+vo duoc res
+peach.bygat
+6724 4224 388
+
+THUỐC NHUỘM 80K (@peach.bygat) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 898,
+    accountId: 'peach.bygat',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 5k fl\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:      Tối thiểu 8k368\r\n\r\n*************************************\r\n📌NOTE:     29/5/2019\tnc ngoài\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: thuocnhuomtoc80k\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+v.h.lp_beautycenter
+7669 5873 708
+
+V.H.LP BeautyCenter (@v.h.lp_beautycenter) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 900,
+    accountId: 'v.h.lp_beautycenter',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k fl\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:      Tối thiểu  14k426\r\n\r\n*************************************\r\n📌NOTE: id cũ glyn.beauty\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ulshopsaigon, brownycrub\r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 27,
+    accStatus: 'mau1' } ]
+vo duoc res
+taco.store121320
+7643 1629 311
+
+@taco.store121320 • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 915,
+    accountId: 'taco.store121320',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl \r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:      Tối thiểu 11k5\r\n\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n⚠️TAGET ĐÃ CHẠY: ',
+    number: 999,
+    accStatus: 'mau1' } ]
+vo duoc res
+thesneakerhouse.official
+3211 4213 95
+
+THE SNEAKER HOUSE (@thesneakerhouse.official) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 929,
+    accountId: 'thesneakerhouse.official',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:     Tối thiểu 11k\r\n*************************************\r\n📌NOTE:  \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: thêm Target : thesneakerholicvn\t\t\t\r\n@minhshop.vn__,grey.b_,candlesvn\r\n\r\n📦 NGÀNH HÀNG: Giày dép nam\r\n',
+    number: 23,
+    accStatus: 'mau1' } ]
+vo duoc res
+hippy.glassssss
+708 1003 19
+
+@hippy.glassssss • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 931,
+    accountId: 'hippy.glassssss',
+    link: null,
+    serverId: '171',
+    note: null,
+    number: 27,
+    accStatus: 'mau5' } ]
+vo duoc res
+tama.glass
+3445 6134 19
+
+@tama.glass • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 932,
+    accountId: 'tama.glass',
+    link: null,
+    serverId: '206',
+    note: 'Người bấm: Nguyên',
+    number: 1,
+    accStatus: 'Not yet' } ]
+vo duoc res
+yummydecor_vn
+1359 1040 47
+
+Home Decor_ Kitchen Decor (@yummydecor_vn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 936,
+    accountId: 'yummydecor_vn',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI: 800 + 1k fl\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:  20/6/2019\t   Tối thiểu 2k\r\n*************************************\r\n📌NOTE:  22/5/2019\t Khách báo dính nước ngoài\t\t\t\r\n\r\n✍CMT: Come and see @yummydecor_vn 💛💖 \r\n\r\n🎯TAGET: chisaikitchen, mei.room, chie.decor, ournest.decor, lamdecor, kem.decor, a.room_decor, tiem.casti\r\n\r\n📦 NGÀNH HÀNG: Đồ dùng nội thất\r\n',
+    number: 99,
+    accStatus: 'mau5' } ]
+vo duoc res
+nang.gems
+3300 7510 75
+
+Nắng Gems (@nang.gems) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 942,
+    accountId: 'nang.gems',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 800 ( 4 tháng )\r\n📩FB: Thế Khang\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI: 21/9/2019\t    Tối thiểu: 4k7\r\n*************************************\r\n📌NOTE: Nguyên\r\n\r\n✍CMT: 💓💗💓\r\n\r\n🎯TAGET: Độ tuổi : Nữ 18t - 34t . gypsy.lala, shopthedeadbird, shopcobadao,  elzi.gemz, julie.gems, bullstones_, thepandora2711, lyns.phongthuytaitam, lyns_pttt, ceecee_store, daphongthuy.gixgems\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 35,
+    accStatus: 'mau1' } ]
+vo duoc res
+victorwardrobevn
+2535 6972 53
+
+Chuyên VNXK chuẩn xịn (@victorwardrobevn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 944,
+    accountId: 'victorwardrobevn',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl\r\n📩FB: Hải Nam\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k1\r\n*************************************\r\n📌NOTE:\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: @jkshopvn, @janshop.vnxk\r\n\r\n📦 NGÀNH HÀNG: Thời trang nam\r\n',
+    number: 45,
+    accStatus: 'mau1' } ]
+vo duoc res
+butter.store96
+18800 '4880' '898'
+
+BURI'S HOUSE (@butter.store96) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 945,
+    accountId: 'butter.store96',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl\r\n📩FB: Trang Trần\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu:  20k100\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: neon_hn ,Riri.home ,Ocsenshop\r\n\r\n📦 NGÀNH HÀNG: Đồ dùng nội thất\r\n',
+    number: 55,
+    accStatus: 'mau1' } ]
+vo duoc res
+she_beauty.corner
+751 716 80
+
+SHE - Be Your Best Version (@she_beauty.corner) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 947,
+    accountId: 'she_beauty.corner',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 5k fl \r\n📩FB: Thuy Van\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: bonita_beauty389a\r\n\r\n📦 NGÀNH HÀNG: Mỹ phẩm\r\n',
+    number: 999,
+    accStatus: 'Not yet' } ]
+vo duoc res
+banana.beautyyy
+2299 5820 19
+
+@banana.beautyyy • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 959,
+    accountId: 'banana.beautyyy',
+    link: null,
+    serverId: '206',
+    note: 'mai',
+    number: 9,
+    accStatus: 'mau5' } ]
+vo duoc res
+basics.cosmeticssss
+1402 4593 16
+
+@basics.cosmeticssss • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 961,
+    accountId: 'basics.cosmeticssss',
+    link: null,
+    serverId: '179',
+    note: null,
+    number: 999,
+    accStatus: 'mau4' } ]
+vo duoc res
+mar.galleries
+2735 3978 153
+
+ＭＡＲ ＧＡＬＬＥＲＩＥＳ (@mar.galleries) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 963,
+    accountId: 'mar.galleries',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k fl\r\n📩FB: Thùy My\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 11k\r\n*************************************\r\n📌NOTE: Luân\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ghostbae.hn, botbot_studio\r\n\r\n📦 NGÀNH HÀNG: Thời trang nữ\r\n',
+    number: 5,
+    accStatus: 'mau1' } ]
+vo duoc res
+amsport1.vn
+3236 3263 87
+
+AM Stronger Together (@amsport1.vn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 964,
+    accountId: 'amsport1.vn',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k fl\r\n📩FB: Linh Linh\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 8k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: Giới tính : Nam - Nữ . Độ tuổi : 16-45\r\n\r\n📦 NGÀNH HÀNG: Thời trang nam\r\n',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+hellocanen
+2939 4365 144
+
+CANEN (@hellocanen) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 968,
+    accountId: 'hellocanen',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k\r\n📩FB: Dương Hoàng\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k3\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: Jealouhouse, Decao, The noir\r\n\r\n📦 NGÀNH HÀNG: Giày dép nữ\r\n',
+    number: 11,
+    accStatus: 'mau1' } ]
+vo duoc res
+Cherrychic.store
+5979 7127 307
+
+🍒 Korea Style 🇰🇷 Basic Style (@cherrychic.store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 971,
+    accountId: 'Cherrychic.store',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 3k fl\r\n📩FB: Như Trang Bùi \r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu:  6k5\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: lyystore,mochi.orders,hiin.shop,nah19room,miia_closet\r\n\r\n📦 NGÀNH HÀNG: Thời trang nữ\r\n',
+    number: 24,
+    accStatus: 'mau1' } ]
+vo duoc res
+Brianna.cornerr
+2768 7391 45
+
+Brianna Corner (@brianna.cornerr) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 985,
+    accountId: 'Brianna.cornerr',
+    link: null,
+    serverId: '209',
+    note: 'Người bấm: Nguyên',
+    number: 1,
+    accStatus: 'Not yet' } ]
+vo duoc res
+Karla.corner
+2126 6127 55
+
+Karla Corner (@karla.corner) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 988,
+    accountId: 'Karla.corner',
+    link: null,
+    serverId: '206',
+    note: 'Mai',
+    number: 8,
+    accStatus: 'mau5' } ]
+vo duoc res
+nhacuagao
+4512 7085 131
+
+@nhacuagao • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1011,
+    accountId: 'nhacuagao',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl\r\n📩FB: Phạm Giao\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k8\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: somehow.vn, janshop.vnxk\r\n\r\n📦 NGÀNH HÀNG: Quần áo, giày dép, balo, túi xách',
+    number: 75,
+    accStatus: 'mau1' } ]
+vo duoc res
+vongtay_nabt
+8921 5884 351
+
+Vòng Phong Thuỷ (@vongtay_nabt) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1012,
+    accountId: 'vongtay_nabt',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl\r\n📩FB: Le Hong Ngoc\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 11k5\t\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: cara.gem , ceegems\r\n\r\n📦 NGÀNH HÀNG: PHONG THUỶ ',
+    number: 28,
+    accStatus: 'mau1' } ]
+vo duoc res
+rose.unisex
+2129 5227 15
+
+@rose.unisex • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1018,
+    accountId: 'rose.unisex',
+    link: null,
+    serverId: '206',
+    note: 'mai',
+    number: 10,
+    accStatus: 'mau5' } ]
+vo duoc res
+vintek_store
+920 2231 177
+
+Gấu Bông Xinh shop (@vintek_store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1026,
+    accountId: 'vintek_store',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI: 800\r\n📩FB: Gia Ngân\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:  29/6/2019\t   Tối thiểu: 1k3\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: ❤️\r\n\r\n🎯TAGET: gaubongcaocap, gaushop, gaubongbebu\r\n\r\n📦 NGÀNH HÀNG: Gấu bông',
+    number: 5,
+    accStatus: 'mau1' } ]
+vo duoc res
+youngmedia.official
+3919 81 351
+
+𝙔𝙤𝙪𝙣𝙜 𝙈𝙚𝙙𝙞𝙖 (@youngmedia.official) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1029,
+    accountId: 'youngmedia.official',
+    link: null,
+    serverId: '127',
+    note:
+     'Test inbox\r\n\r\n\r\n\r\n\r\nmid=XPCx-gAAAAGHzyM3TfKPqiKPM_cb; csrftoken=vFf33Fowa1b9IL21L2JLe2KDKREtzoIj; shbid=3335; shbts=1559278082.5482616; ds_user_id=11220410006; sessionid=11220410006%3AhlkNWlxe48sR1x%3A16; rur=ATN; urlgen="{\\"14.169.99.150\\": 45899}:1hWZTf:pYAGULk73R_M5LYPKW2vHLyISyE"; ',
+    number: 17,
+    accStatus: null } ]
+vo duoc res
+banakid.home
+3001 6717 685
+
+Clothes and More-Kid and Women (@banakid.home) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1036,
+    accountId: 'banakid.home',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 3k Fl\r\n📩FB: Le Thi Kim Oanh\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 3k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: cutekids_vn,bebe.your_,chaiko.house\r\n\r\n📦 NGÀNH HÀNG: Thời trang trẻ em',
+    number: 9,
+    accStatus: 'mau5' } ]
+vo duoc res
+dumystore
+2450 6175 0
+
+DUMY STORE (@dumystore) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1037,
+    accountId: 'dumystore',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI: 3k FL\r\n📩FB: Ong Dương My\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 3k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: Rubies.sg/milinaa.clothing/dottie.store\r\n\r\n📦 NGÀNH HÀNG: Thời trang nữ',
+    number: 33,
+    accStatus: 'Not yet' } ]
+vo duoc res
+aioi.story
+2705 4114 999
+
+𝑌𝑜𝑢𝑟 𝐷𝑎𝑖𝑙𝑦 𝐿𝑜𝑜𝑘 (@aioi.story) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1038,
+    accountId: 'aioi.story',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl\r\n📩FB: Khánh Như\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k7\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: basicme.official,dressnflowers,lilas.store,bearscorner\r\n\r\n📦 NGÀNH HÀNG: Thời trang nữ',
+    number: 9,
+    accStatus: 'mau1' } ]
+vo duoc res
+est11.sg
+3033 6492 55
+
+SALE 20% (@est11.sg) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1049,
+    accountId: 'est11.sg',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k Fl\r\n📩FB: Tâm Như\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 10k5\r\n*************************************\r\n📌NOTE:   doggi.sg củ\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: davies.original,fulsense_official,paradox.worldwide,thel.studios\r\n\r\n📦 NGÀNH HÀNG: Thời trang unisex',
+    number: 70,
+    accStatus: 'mau1' } ]
+vo duoc res
+qslens.quanhoang
+2856 7475 276
+
+Q’s Lens.vn (@qslens.quanhoang) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1053,
+    accountId: 'qslens.quanhoang',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k\r\n📩FB: Quân Hoàng\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k4\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: melookvn, caras_lens, lensforgirlss, lensnice.japan,\r\n\r\n📦 NGÀNH HÀNG: lens mat',
+    number: 29,
+    accStatus: 'mau1' } ]
+vo duoc res
+sagi_cosmetics
+5481 5620 996
+
+Lý Ngọc Phượng (@sagi_cosmetics) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1058,
+    accountId: 'sagi_cosmetics',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k\r\n📩FB: Lý Ngọc Phượng\r\n👔CSKH: \r\n📆NGÀY HẾT GÓI:     Tối thiểu: 8k7\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: nutycosmetics , mathoadaphan , sammi shop\r\n\r\n📦 NGÀNH HÀNG: Mỹ phẩm',
+    number: 13,
+    accStatus: 'mau1' } ]
+Nguyenhuong3301
+vo duoc res
+28.siro.store
+1132 1176 181
+
+SIRO STORE (@28.siro.store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1061,
+    accountId: '28.siro.store',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI: 500\r\n📩FB: Thương Di\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:    4/7/2019\t Tối thiểu: 1k6\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: kb_store161 ,Yuri.sleepwear ,Mimii.store ,Winstore21 ,Yen.sleepwear\r\n\r\n📦 NGÀNH HÀNG: Thời trang nữ\r\n',
+    number: 6,
+    accStatus: 'mau1' } ]
+vo duoc res
+letthekidzsmoke
+1831 3926 68
+
+Let The Kidz Smoke (@letthekidzsmoke) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1072,
+    accountId: 'letthekidzsmoke',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl\r\n📩FB: Đỗ Nam Anh\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k2\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: fredom.6ix,2ceshop_streetwear\r\n\r\n📦 NGÀNH HÀNG: Thời trang nam\r\n',
+    number: 16,
+    accStatus: 'mau1' } ]
+vo duoc res
+utrangcafe.00
+3945 6687 537
+
+TẮM TRẮNG 100% THIÊN NHIÊN (@utrangcafe.00) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1073,
+    accountId: 'utrangcafe.00',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 3k Fl\r\n📩FB: Đỗ Hồng Đào\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI: \t  Tối thiểu: 5k3\t\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: wwebpage,26thang6,_nganngn999,_chanhchaushop\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 46,
+    accStatus: 'mau1' } ]
+vo duoc res
+thecloudystoree
+4579 7337 344
+
+𝐓 𝐇 𝐄 𝐂 𝐋 𝐎 𝐔 𝐃 𝐘 𝐒 𝐓 𝐎 𝐑 𝐄 𝐄 (@thecloudystoree) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1079,
+    accountId: 'thecloudystoree',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 3k Fl\r\n📩FB: Nguyễn Thái Minh Nghi\r\n👔CSKH: sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+jsc_house
+10800 '6537' '1124'
+
+@jsc_house • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1085,
+    accountId: 'jsc_house',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 10k Fl\r\n📩FB: Jessica Ha\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 19k5\r\n*************************************\r\n📌NOTE: đổi thông tin ko báo lại tạm ngưng\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 9999,
+    accStatus: 'mau5' } ]
+vo duoc res
+atjapan.store
+2815 7350 476
+
+AT Japan Store 🇯🇵🇯🇵🇯🇵 (@atjapan.store) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1086,
+    accountId: 'atjapan.store',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 3k Fl\r\n📩FB: Thư Lê\r\n👔CSKH: cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 3k220\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: caribon.store,cosii_beauty,hejahouse,tacosme.japan,doryhousee\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+mochiistoreee
+3025 6548 73
+
+Mochi Store (@mochiistoreee) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1088,
+    accountId: 'mochiistoreee',
+    link: null,
+    serverId: '208',
+    note:
+     '🛒GÓI: 3k Fl\r\n📩FB: Thảo Thị\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 3k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: aurora_castle _,Cari.bon,Mint_cosmetics,Pinkbeautyshop.cosmetics,Tido.store\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 11,
+    accStatus: 'Not yet' } ]
+vo duoc res
+muiskin.cosmetics
+2868 7506 121
+
+muiSkin KIEHL'S☆KLAVUU☆HUXLEY (@muiskin.cosmetics) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1093,
+    accountId: 'muiskin.cosmetics',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k FlVIP\r\n📩FB: Phuong Minh\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k1\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: các bạn ghé Shop để biết thêm nhiều ưu đãi hấp dẫn khi mua hàng nhé♥️\r\n\r\n🎯TAGET: jenleicosmetics,bonnie_store308,lou.de.parfum ,soberrycosmetics,camelliebeautycorner,seoul.shop86\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 77,
+    accStatus: 'mau1' } ]
+vo duoc res
+nguyeen.huy
+2826 6894 28
+
+Nguyễn Huy (@nguyeen.huy) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1099,
+    accountId: 'nguyeen.huy',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 20k Fl\r\n📩FB: Nguyễn Anh Huy\r\n👔CSKH: Luân\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 22k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: im.jiron , dat_mario , ntan.97 , policelonton , mocphin , no.17 , trannhatduc , __theanh.nguyen , __imperio , hieupolice\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 68,
+    accStatus: 'mau1' } ]
+vo duoc res
+_home.decor___
+5618 3800 69
+
+Kiuuuu’s World (@_home.decor___) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1100,
+    accountId: '_home.decor___',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Flthường\r\n📩FB: Hổ\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 8k627\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: learis.hn ,ciuciu.vn,chie.decor,alittleleaf.decor,after10_decor\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 999,
+    accStatus: 'Not yet' } ]
+vo duoc res
+cnk_pedro_pazzion_prettyfit
+2775 5714 145
+
+MINA SING AUTHENTIC (@cnk_pedro_pazzion_prettyfit) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1101,
+    accountId: 'cnk_pedro_pazzion_prettyfit',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl thường\r\n📩FB: Mina Sing Xach Tay\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k1\r\n*************************************\r\n📌NOTE: mina_sing_authentic củ\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: order.us.spain, miimi.orderauthentic, choangg.order, sing_store, order.authentic.hn\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 65,
+    accStatus: 'mau1' } ]
+vo duoc res
+sy.beautyroom
+2372 6980 109
+
+Sy.Beautyroom (@sy.beautyroom) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1106,
+    accountId: 'sy.beautyroom',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 3k Fl thường\r\n📩FB: Hồng Loan Nguyễn\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 3k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: nzim.beautyroom,letty.beauty,thich.thich.nails,teelee_nails.beauty,thenailbox43\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 30,
+    accStatus: 'mau1' } ]
+vo duoc res
+jackie.ngoc
+685 1782 343
+
+SALE UP 30-50% ALL MỸ PHẨM 🎈🎈 (@jackie.ngoc) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1116,
+    accountId: 'jackie.ngoc',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 5k Fl thường+TT\r\n📩FB: Bùi Ngọc\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 5k219\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: bichang1907\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+ceo_thanhha
+7178 6598 749
+
+CEO Weilaiya VN - LASKIN COS (@ceo_thanhha) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1118,
+    accountId: 'ceo_thanhha',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 3K Fl thường\r\n📩FB: Nguyễn Thanh Hà\r\n👔CSKH: Cường\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 8k955\t\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: ttbabypinky,lavish.cosmetics_,moicosmetics,aruora_castle_\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 12,
+    accStatus: 'mau5' } ]
+vo duoc res
+china.order8698_
+2163 4817 1185
+
+ORDER CHINA - Ủ Trắng CAFE 👏 (@china.order8698_) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1122,
+    accountId: 'china.order8698_',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI: 3k thường\r\n📩FB: Lê Hằng\r\n👔CSKH: Sang\r\n📆NGÀY HẾT GÓI:     Tối thiểu: 3k972\t\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: 16thang6.clothes ; hatchuoi.order ; blueshopp_22 ; dre.planet ; dihustore\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 999,
+    accStatus: 'mau4' } ]
+vo duoc res
+lesiccosmetic
+3593 5776 59
+
+Lésic Japan Cosmetic 🍊 (@lesiccosmetic) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1123,
+    accountId: 'lesiccosmetic',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI: 10k thường\r\n📩FB: Nobdi Le\r\n👔CSKH: Tâm\r\n📆NGÀY HẾT GÓI:     Tối thiểu:   11k129\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: sleeks.cosmetic, gin.jpskincare, theblushhh\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 41,
+    accStatus: 'mau1' } ]
+vo duoc res
+tycosmetics.dahn
+2328 6342 65
+
+Dung Nhi (@tycosmetics.dahn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1126,
+    accountId: 'tycosmetics.dahn',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI:  5k thường\r\n📩FB: Dung Nhi\r\n👔CSKH: Tâm\r\n📆TỐI THIỂU:   6k166\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'mau5' } ]
+vo duoc res
+bil_store_
+3765 7018 10
+
+LUXURY&HYPEBEAST ORDER (@bil_store_) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1131,
+    accountId: 'bil_store_',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI:  5k Fl thường\r\n📩FB: Thi Ngoc Pham\r\n👔CSKH: Luân\r\n📆TỐI THIỂU:    5k\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: zelia.order,gentlemanstore_,mcborder\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+b.chic_clothing
+1574 2678 1019
+
+Boho/chicstyle/elegant/retro (@b.chic_clothing) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1133,
+    accountId: 'b.chic_clothing',
+    link: null,
+    serverId: '200',
+    note:
+     '🛒GÓI:  500\r\n📩FB: Chi Mỹ Võ Thị\r\n👔CSKH: Cường\r\n📆TỐI THIỂU:    1k921\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: iamcoco.official,machnhaduong,whattowear.vn,nene_clothing,sonic.bohemian.saigon,\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 13,
+    accStatus: 'mau1' } ]
+vo duoc res
+stee.clothing
+2930 7300 335
+
+Order Ulzzang Styles (@stee.clothing) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1135,
+    accountId: 'stee.clothing',
+    link: null,
+    serverId: '201',
+    note:
+     '🛒GÓI:  10k Fl thường\r\n📩FB: Hoàng Thị Sinh Trà\r\n👔CSKH: Sang\r\n📆TỐI THIỂU:   10k300\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: miia_closet ,Lavie.closett,allabout.1993,Mixicloset,Therin2015.studio,Pelee.clothing,Lynh.clothing\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'Not yet' } ]
+vo duoc res
+ando.shoes
+1542 3072 115
+
+ANDO SHOES (@ando.shoes) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1140,
+    accountId: 'ando.shoes',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI:  3k Fl thường\r\n📩FB: Quynh Chi\r\n👔CSKH: Cường\r\n📆TỐI THIỂU:    3k142\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: shoebeautiful,balanana_shoes,bapstore2,shoesparadise.sg\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 99,
+    accStatus: 'mau1' } ]
+vo duoc res
+thekey.clothing
+3028 5182 4
+
+THE KEY CLOTHING (@thekey.clothing) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1144,
+    accountId: 'thekey.clothing',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI:  5k Fl thường\r\n📩FB: Khương Phạm\r\n👔CSKH: Sang\r\n📆TỐI THIỂU:    5k284\r\n*************************************\r\n📌NOTE:  24/6 khách báo nước ngoài, unfollowing xong đổi nhakho2handbmt_Flwing_itz\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 4,
+    accStatus: 'mau1' } ]
+vo duoc res
+1996Ord
+10000 '6118' '1138'
+
+⭐️Nhật Hà ORD-0772.548.528 (@1996ord) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1147,
+    accountId: '1996Ord',
+    link: null,
+    serverId: '198',
+    note:
+     '🛒GÓI:  5k thường\r\n📩FB: Nhật Hà Ord\r\n👔CSKH: Tâm\r\n📆TỐI THIỂU:    13k447\r\n*************************************\r\n📌NOTE: \r\n\r\n✍CMT: \r\n\r\n🎯TAGET: \r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 10,
+    accStatus: 'mau5' } ]
+vo duoc res
+maybeautymart.vn
+3671 7436 364
+
+May Beauty Mart (@maybeautymart.vn) • Instagram photos and videos
+
+[ RowDataPacket {
+    accId: 1151,
+    accountId: 'maybeautymart.vn',
+    link: null,
+    serverId: '199',
+    note:
+     '🛒GÓI:  5k vip\r\n📩FB: Cường\r\n👔CSKH: \r\n📆TỐI THIỂU:   5k159\t\r\n*************************************\r\n📌NOTE: Theo dõi lấy fling về chạy\r\n\r\n✍CMT: \r\n\r\n🎯TAGET: nuty cosmetics, Tamkhoashop, d.vaniee\r\n\r\n📦 NGÀNH HÀNG: ',
+    number: 999,
+    accStatus: 'mau1' } ]
+13 0 2019-08-22 1606
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+vo duoc res
+accountslogin/
+https://instagram.com/_mad_sneaker_
+vo duoc res
+accountslogin/
+https://instagram.com/_mad_sneaker_
+vo duoc res
+accountslogin/
+https://instagram.com/20mint.store
+vo duoc res
+accountslogin/
+https://instagram.com/reignover.clo
+vo duoc res
+accountslogin/
+https://instagram.com/Nguyenhuong3301
+vo duoc res
+accountslogin/
+https://instagram.com/Nguyenhuong3301
+vo duoc res
+accountslogin/
+https://instagram.com/2.198studio
+vo duoc res
+accountslogin/
+https://instagram.com/usu.clothing
+vo duoc res
+accountslogin/
+https://instagram.com/usu.clothing
+vo duoc res
+accountslogin/
+https://instagram.com/2.198studio
+vo duoc res
+accountslogin/
+https://instagram.com/floriane_dear
+vo duoc res
+accountslogin/
+https://instagram.com/kd1_youngmedia.01
+vo duoc res
+accountslogin/
+https://instagram.com/ngoc_myphamauth
+vo duoc res
+accountslogin/
+https://instagram.com/xixon.shop
+vo duoc res
+accountslogin/
+https://instagram.com/lephuong539
+vo duoc res
+accountslogin/
+https://instagram.com/lephuong539
+vo duoc res
+accountslogin/

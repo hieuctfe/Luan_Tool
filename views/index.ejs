@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="row">
+    <div id="form-add-server-container" style="text-align: center; display: flex">
+        <form action="update" method="post" style="flex: 1; line-height: 100px" class="m-t-15">
+            <button type="submit" class="btn btn-danger">Update all user info</button>
+        </form>
+        <form action="addServer" method="post" style="flex: 2;margin-top: 35px">
+            <input type="text" required name="serverName" placeholder="server Name">
+            <input type="text" required name="accountId" placeholder="account id">
+            <button type="submit">Add Server</button>
+        </form>
+        <!--<form action="exportTransaction" style="flex: 1; line-height: 100px" class="m-t-15">-->
+        <a href="/exportTransaction" style="flex: 1; line-height: 100px" class="m-t-15">Export transaction</a>
+        <!--</form>-->
+    </div>
+    <div class="account-container col col-md-5">
+        <ul class="nav nav-tabs">
+            <% for (var k in json) { %>
+                <li><a data-toggle="tab" href="#<%= json[k][0].serverId %>"><%= k %></a></li>
+            <% } %>
+            <li id="add-server-btn"><span style="line-height: 42px; cursor: pointer">+ Add Server</span></li>
+        </ul>
+        <div class="tab-content">
+            <% for (var k in json) { %>
+                <div id="<%= json[k][0].serverId %>" class="tab-pane fade">
+                    <div style="display: flex; justify-content: space-between">
+                        <div class="" style="margin-top: 10px">
+                            <button class="btn btn-warning" onclick="editModeChange()">Edit mode</button>
+                        </div>
+                        <form action="addAccount" method="post" class="" style="margin: 10px">
+                            <input type="text" hidden name="serverId" value="<%= json[k][0].serverId %>">
+                            <input type="text" required name="accountId">
+                            <button type="submit">Add account</button>
+                        </form>
+                    </div>
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <td>STT</td>
+                            <td>Instagram Id</td>
+                            <td>Direct link</td>
+                            <td>status</td>
+                            <td>Change Server</td>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <% for (var i = 0; i < json[k].length; i++) { %>
+                            <% if (json[k][i].accId != 20) { %>
+                                <tr class="account-row"
+                                    onclick="getTransaction('<%= json[k][i].accountId %>'); $('.focusRow').removeClass('focusRow'); $(this).addClass('focusRow')">
+                                    <td><input style="max-width: 50px" data-id="<%= json[k][i].accountId %>"
+                                               onchange="changeNumber(this)" type="text"
+                                               value="<%= json[k][i].number %>"></td>
+                                    <td class="insta-account">
+                                        <input type="text" value="<%= json[k][i].accountId %>"
+                                               data-id="<%= json[k][i].accountId %>"
+                                               onchange="changeShopId(this)" class="acc">
+                                        <span><%= json[k][i].accountId %></span>
+                                    </td>
+                                    <td><a href="https://www.instagram.com/<%= json[k][i].accountId %>">Link</a></td>
+                                    <td class="status-col">
+                                        <select onchange="changeAccountColor(this)"
+                                                account-id="<%= json[k][i].accountId %>"
+                                                class="<%= json[k][i].accStatus ? json[k][i].accStatus : "" %>">
+                                            <option class="">Not yet</option>
+                                            <option <%= json[k][i].accStatus == 'mau1' ? "selected" : "" %>
+                                                    class="mau1">mau1
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau2' ? "selected" : "" %>
+                                                    class="mau2">mau2
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau3' ? "selected" : "" %>
+                                                    class="mau3">mau3
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau4' ? "selected" : "" %>
+                                                    class="mau4">mau4
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau5' ? "selected" : "" %>
+                                                    class="mau5">mau5
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau6' ? "selected" : "" %>
+                                                    class="mau6">mau6
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau7' ? "selected" : "" %>
+                                                    class="mau7">mau7
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau8' ? "selected" : "" %>
+                                                    class="mau8">mau8
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau9' ? "selected" : "" %>
+                                                    class="mau9">mau9
+                                            </option>
+                                            <option <%= json[k][i].accStatus == 'mau10' ? "selected" : "" %>
+                                                    class="mau10">mau10
+                                            </option>
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <select onchange="changeServer(this)" account-id="<%= json[k][i].accountId %>"
+                                                name=""
+                                                value="<%= json[k][i].serverId %>" id="">
+                                            <% for (var j in json) { %>
+                                                <option <%= json[j][0].serverId == json[k][i].serverId ? "selected" : "" %>
+                                                        value="<%= json[j][0].serverId %>"><%= j %></option>
+                                            <% } %>
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <form action="updateUserInfo" method="post">
+                                            <input type="text" value="<%= json[k][i].accountId %>" name="userId" hidden>
+                                            <button type="submit">update</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            <% } %>
+                        <% } %>
+                        </tbody>
+                    </table>
+                </div>
+            <% } %>
+        </div>
+    </div>
+    <div class="account-report-container col col-md-7" id="right-transaction" style="background: white">
+        <div class="form-group">
+            <input class="form-control" id="insta-search-box" placeholder="Search instagram Id">
+            <div style="font-weight: bolder; font-size: 15px; line-height: 50px" id="shop-server-container"></div>
+            <div style="font-weight: bolder; font-size: 15px; line-height: 50px" id="shop-name-container"></div>
+            <div style="font-weight: bolder; font-size: 15px; line-height: 50px" id="NoteShop"></div>
+            <div>
+                <table class="table" style="background: white">
+                    <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Follwer</th>
+                        <th>Follwing</th>
+                        <th>Follwer Up</th>
+                        <th>Follwing UP</th>
+                        <th>status</th>
+                        <th>Target</th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody id="transaction-list">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .mau1 {
+        background-color: green;
+    }
+
+    .mau2 {
+        background-color: red;
+    }
+
+    .mau3 {
+        background-color: pink;
+    }
+
+    .mau4 {
+        background-color: #FF8000;
+    }
+
+    .mau5 {
+        background-color: #FFFF00;
+    }
+
+    .mau6 {
+        background-color: #FFFF00;
+    }
+
+    .mau7 {
+        background-color: #00FFFF;
+    }
+
+    .mau8 {
+        background-color: #00FFFF;
+    }
+
+    .mau9 {
+        background-color: #330000;
+    }
+
+    .mau10 {
+        background-color: #003319;
+    }
+
+    #form-add-server-container {
+        height: 0px;
+        transition: all .4s;
+    }
+
+    .showAdd {
+        height: 100px !important;
+    }
+
+    .row {
+        margin: 0px;
+    }
+
+    .row .col {
+        padding: 0px !important;
+    }
+
+    .account-container {
+        min-height: 100vh;
+        max-height: 100vh;
+        overflow-y: scroll;
+        background: white;
+        border: 1px solid lightgrey;
+    }
+
+    .account-container .form-group {
+        padding: 0px;
+    }
+
+    .account-report-container .form-group input {
+        height: 43px;
+        border-radius: 0px;
+    }
+
+    .account-report-container table {
+        width: 100%;
+    }
+
+    .insta-account:hover {
+        cursor: pointer;
+    }
+
+    .focusRow {
+        font-weight: bolder;
+        color: red;
+    }
+
+    .nav-tabs {
+        background: white;
+    }
+
+    .insta-account input {
+        display: none;
+    }
+
+    .insta-account span {
+        display: block;
+    }
+
+    .editMode span {
+        display: none;
+    }
+
+    .editMode input {
+        display: block;
+    }
+</style>
+<script>
+    $($('.nav-tabs li')[0]).addClass('active')
+    $($('.tab-pane')[0]).addClass('in').addClass('active')
+    $('#add-server-btn').on('click', function () {
+        console.log('?');
+        $('#form-add-server-container').toggleClass('showAdd');
+    })
+
+    let currentSelectId = ''
+
+    function getTransaction(searchValue) {
+        currentSelectId = searchValue
+        $.get("getTransaction/" + searchValue, function (res) {
+            if (res) {
+                $('#shop-server-container').text("Server: " + res[0].servername + " - ShopName: " + res[0].shopName)
+                console.log(res);
+                let form = `<form action="addTransaction" method="post">
+                    <input type="date" name="date">
+                    <input type="text" name="following" placeholder="following">
+                    <input type="text" name="follower" placeholder="follower">
+                    <input type="text" name="accId" value="${res[0].accId}" hidden placeholder="accId">
+                    <button type="submit" style="max-height: 43px; line-height: 43px">add transaction</button>
+                </form>`
+                let form2 = `<form action="updateNote" method="post">
+                    <input type="text" name="accId" value="${res[0].accId}" hidden placeholder="accId">
+                    <textarea style="width: 60%; vertical-align: middle; line-height: normal" type="text" name="note" rows="15" placeholder="note">${res[0].note}</textarea>
+                    <button type="submit" style="max-height: 43px; line-height: 43px">Update node</button>
+                </form>`
+                $('#shop-name-container').html(form)
+                $('#NoteShop').html(form2)
+            }
+
+            let container = $('#transaction-list').html('')
+
+            res.forEach(function (el, idx) {
+                let upFollower = idx == res.length - 1 ? 0 : (el.follower - res[idx + 1].follower)
+                let upFollowing = idx == res.length - 1 ? 0 : (el.following - res[idx + 1].following)
+                let html = `<tr>
+                                <td>${new Date(el.date).toLocaleDateString()}</td>
+                                <td>${el.follower}</td>
+                                <td>${el.following}</td>
+                                <td>${upFollower}</td>
+                                <td>${upFollowing}</td>
+                                <td class="status-col">
+                                        <select account-id="${el.reportId}"
+                                                class="${el.status ? el.status : ''} color-select">
+                                            <option class="">Not yet</option>
+                                            <option ${el.status == 'mau1' ? "selected" : ""} class="mau1">mau1</option>
+                                            <option ${el.status == 'mau2' ? "selected" : ""} class="mau2">mau2</option>
+                                            <option ${el.status == 'mau3' ? "selected" : ""} class="mau3">mau3</option>
+                                            <option ${el.status == 'mau4' ? "selected" : ""} class="mau4">mau4</option>
+                                            <option ${el.status == 'mau5' ? "selected" : ""} class="mau5">mau5</option>
+                                            <option ${el.status == 'mau6' ? "selected" : ""} class="mau6">mau6</option>
+                                            <option ${el.status == 'mau7' ? "selected" : ""} class="mau7">mau7</option>
+                                            <option ${el.status == 'mau8' ? "selected" : ""} class="mau8">mau8</option>
+                                            <option ${el.status == 'mau9' ? "selected" : ""} class="mau9">mau9</option>
+                                            <option ${el.status == 'mau10' ? "selected" : ""} class="mau10">mau10</option>
+                                        </select>
+                                    </td>
+                                <td><input class="form-control" data-id="${el.reportId}" onchange="changeTarget(this)" value="${el.target}"  placeholder="target"></td>
+                                <td>
+                                    <form action="deleteTransaction" method="post">
+                                    <input type="text" name="reportId" hidden value="${el.reportId}">
+                                    <button type="submit">X</button></form>
+                                </td></tr>`;
+                container.append(html)
+            })
+        })
+    }
+
+    $('#insta-search-box').on('change', function () {
+        console.log(this);
+        let searchValue = $(this).val();
+        getTransaction(searchValue)
+    })
+
+    function changeAccountColor(e) {
+        let accId = $(e).attr('account-id');
+        let newColor = $(e).val()
+        $.get("changeAccountColor?shopname=" + accId + '&newColor=' + newColor, function (res) {
+            if (res.status) {
+                alert("Success")
+            } else {
+                alert("Fail")
+            }
+        })
+    }
+
+    function changeTarget(e) {
+        let id = $(e).attr('data-id')
+        let value = $(e).val()
+        $.get("changeTarget?target=" + value + "&id=" + id, function (res) {
+            if (res.status) {
+                alert("Success")
+            } else {
+                alert("Fail")
+            }
+        })
+    }
+
+    function changeShopId(e) {
+        let id = $(e).attr('data-id')
+        let value = $(e).val()
+        $.get("changeShopName?shopname=" + id + '&newShop=' + value, function (res) {
+            if (res.status) {
+                alert("Success")
+            } else {
+                alert("Fail")
+            }
+        })
+    }
+
+    function changeServer(e) {
+        let id = $(e).attr('account-id')
+        let value = $(e).val()
+        $(e).addClass(value)
+        console.log(value);
+        $.get("changeServer?shopname=" + id + '&newServer=' + value, function (res) {
+            if (res.status) {
+                alert("Success")
+            } else {
+                alert("Fail")
+            }
+        })
+    }
+
+    function changeNumber(e) {
+        let id = $(e).attr('data-id')
+        let value = $(e).val()
+        console.log(value);
+        $.get("changeNumber?accId=" + id + '&number=' + value, function (res) {
+            if (res.status) {
+                alert("Success")
+            } else {
+                alert("Fail")
+            }
+        })
+    }
+
+    function editModeChange() {
+        $('.insta-account').toggleClass('editMode')
+    }
+
+    $('#right-transaction').on('change', 'select', function (e) {
+        var color = $("option:selected", this).attr("class");
+        $(this).attr("class", color);
+        let id = $(e.target).attr('account-id')
+        $.get("changeAccountStatus?reportId=" + id + '&status=' + color, function (res) {
+            if (res.status) {
+                alert("Success")
+            } else {
+                alert("Fail")
+            }
+        })
+    })
+
+
+    $('body').on('submit', 'form', function (e) {
+        e.preventDefault();
+        var url = $(this).closest('form').attr('action'),
+            data = $(this).closest('form').serialize();
+        $.ajax({
+            url: url,
+            type: 'post',
+            data: data,
+            success: function (res) {
+                if (res.status) {
+                    getTransaction(currentSelectId)
+                    alert('Success');
+                } else if (res.status == false) {
+                    alert('fail')
+                } else {
+                    window.location.reload()
+                }
+            }
+        });
+    });
+
+</script>
+</body>
+</html>
