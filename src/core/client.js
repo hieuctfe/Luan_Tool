@@ -1,0 +1,66 @@
+"use strict";
+exports.__esModule = true;
+var state_1 = require("./state");
+var request_1 = require("./request");
+var feed_factory_1 = require("./feed.factory");
+var account_repository_1 = require("../repositories/account.repository");
+var media_repository_1 = require("../repositories/media.repository");
+var challenge_repository_1 = require("../repositories/challenge.repository");
+var friendship_repository_1 = require("../repositories/friendship.repository");
+var upload_repository_1 = require("../repositories/upload.repository");
+var publish_service_1 = require("../services/publish.service");
+var direct_thread_repository_1 = require("../repositories/direct-thread.repository");
+var entity_factory_1 = require("./entity.factory");
+var qe_repository_1 = require("../repositories/qe.repository");
+var zr_repository_1 = require("../repositories/zr.repository");
+var launcher_repository_1 = require("../repositories/launcher.repository");
+var direct_repository_1 = require("../repositories/direct.repository");
+var loom_repository_1 = require("../repositories/loom.repository");
+var qp_repository_1 = require("../repositories/qp.repository");
+var creatives_repository_1 = require("../repositories/creatives.repository");
+var linked_account_repository_1 = require("../repositories/linked-account.repository");
+var attribution_repository_1 = require("../repositories/attribution.repository");
+var fbsearch_repository_1 = require("../repositories/fbsearch.repository");
+var simulate_service_1 = require("../services/simulate.service");
+var discover_repository_1 = require("../repositories/discover.repository");
+var consent_repository_1 = require("../repositories/consent.repository");
+var user_repository_1 = require("../repositories/user.repository");
+var tag_repository_1 = require("../repositories/tag.repository");
+var search_service_1 = require("../services/search.service");
+var story_service_1 = require("../services/story.service");
+var IgApiClient = /** @class */ (function () {
+    function IgApiClient() {
+        this.state = new state_1.State();
+        this.request = new request_1.Request(this);
+        this.feed = new feed_factory_1.FeedFactory(this);
+        this.entity = new entity_factory_1.EntityFactory(this);
+        /* Repositories */
+        this.account = new account_repository_1.AccountRepository(this);
+        this.attribution = new attribution_repository_1.AttributionRepository(this);
+        this.challenge = new challenge_repository_1.ChallengeRepository(this);
+        this.consent = new consent_repository_1.ConsentRepository(this);
+        this.creatives = new creatives_repository_1.CreativesRepository(this);
+        this.direct = new direct_repository_1.DirectRepository(this);
+        this.directThread = new direct_thread_repository_1.DirectThreadRepository(this);
+        this.discover = new discover_repository_1.DiscoverRepository(this);
+        this.fbsearch = new fbsearch_repository_1.FbsearchRepository(this);
+        this.friendship = new friendship_repository_1.FriendshipRepository(this);
+        this.launcher = new launcher_repository_1.LauncherRepository(this);
+        this.linkedAccount = new linked_account_repository_1.LinkedAccountRepository(this);
+        this.loom = new loom_repository_1.LoomRepository(this);
+        this.media = new media_repository_1.MediaRepository(this);
+        this.qe = new qe_repository_1.QeRepository(this);
+        this.qp = new qp_repository_1.QpRepository(this);
+        this.tag = new tag_repository_1.TagRepository(this);
+        this.upload = new upload_repository_1.UploadRepository(this);
+        this.user = new user_repository_1.UserRepository(this);
+        this.zr = new zr_repository_1.ZrRepository(this);
+        /* Services */
+        this.publish = new publish_service_1.PublishService(this);
+        this.search = new search_service_1.SearchService(this);
+        this.simulate = new simulate_service_1.SimulateService(this);
+        this.story = new story_service_1.StoryService(this);
+    }
+    return IgApiClient;
+}());
+exports.IgApiClient = IgApiClient;
