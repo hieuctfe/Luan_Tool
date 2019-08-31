@@ -45,7 +45,7 @@ async function doRequest(username, ig, idx) {
             catch (err) {
                 rs({});
             }
-        }, 2000 * idx);
+        }, 10000 * idx);
     })
 }
 

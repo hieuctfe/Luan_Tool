@@ -101,7 +101,7 @@ function doRequest(username, ig, idx) {
                                             }
                                         });
                                     });
-                                }, 2000 * idx);
+                                }, 10000 * idx);
                                 return [2 /*return*/];
                             });
                         });
