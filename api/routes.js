@@ -1,53 +1,56 @@
 'use strict';
 module.exports = function (app) {
-    var server = require('./controllers/ProductsController');
+    var general = require('./controllers/GeneralController')
+    var transaction = require('./controllers/Transaction')
 
-    // todoList Routes
+    app.route('/test')
+        .get(transaction.updateUserInfo)
+
     app.route('/password=nguyenluan321123')
-        .get(server.get)
+        .get(general.get)
 
     app.route('/getTransaction/:accId')
-        .get(server.search)
+        .get(general.search)
 
     app.route('/addAccount')
-        .post(server.addAccount)
+        .post(general.addAccount)
 
-    app.route('/addServer')
-        .post(server.addServer)
+    app.route('/addgeneral')
+        .post(general.addServer)
 
     app.route('/update')
-        .post(server.update);
+        .post(transaction.update);
 
     app.route('/changeTarget')
-        .get(server.changeTarget);
+        .get(general.changeTarget);
 
     app.route('/changeShopName')
-        .get(server.changeShopName);
+        .get(general.changeShopName);
 
-    app.route('/changeServer')
-        .get(server.changeServer);
+    app.route('/changegeneral')
+        .get(general.changeServer);
 
     app.route('/updateUserInfo')
-        .post(server.updateUserInfo);
+        .post(transaction.updateUserInfo);
 
     app.route('/updateNote')
-        .post(server.updateNote);
+        .post(general.updateNote);
 
     app.route('/addTransaction')
-        .post(server.addTransaction);
+        .post(general.addTransaction);
 
     app.route('/deleteTransaction')
-        .post(server.deleteTransaction);
+        .post(general.deleteTransaction);
 
     app.route('/exportTransaction')
-        .get(server.exportTransaction)
+        .get(general.exportTransaction)
 
     app.route('/changeAccountStatus')
-        .get(server.changeAccountStatus)
+        .get(general.changeAccountStatus)
 
     app.route('/changeNumber')
-        .get(server.changeNumber)
+        .get(general.changeNumber)
 
     app.route('/changeAccountColor')
-        .get(server.changeAccountColor)
+        .get(general.changeAccountColor)
 };

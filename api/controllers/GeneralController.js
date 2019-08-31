@@ -2,12 +2,10 @@
 
 const util = require('util')
 const mysql = require('mysql')
-const db = require('./../db')
+const db = require('../db')
 const cheerio = require('cheerio')
 const request = require('request')
 const fs = require('fs');
-
-const table = 'server'
 
 Array.prototype.groupBy = function (prop) {
     return this.reduce(function (groups, item) {
@@ -120,28 +118,14 @@ module.exports = {
         })
     },
     update: async (req, res) => {
-        let that = this;
         let sql = 'SELECT * FROM account where serverId != 11';
         await db.query(sql, async (err, response) => {
-            // res.json(arr)
             if (err) throw err;
-            // response = response.map(function (el) {
-            //     return el.accountId
-            // })
             let links = [];
             for (let i = 0; i < response.length; i++) {
                 links.push({link: "https://instagram.com/" + response[i].accountId, id: response[i].accountId})
             }
-            // let arr = [];
-            // for (let i = 0; i < links.length; i++) {
-            //     console.log(links[i]);
-            //     await doRequest(links[i]).catch(function (res) {
-            //         console.log(res)
-            //     });
-            // }
             await Promise.all(links.map(doRequest)).then(function (res2) {
-                // console.log(res2);
-                res2 = [];
                 res.json({status: "true"});
             });
         })

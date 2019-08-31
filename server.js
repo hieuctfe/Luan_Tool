@@ -5,7 +5,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 const bodyParser = require('body-parser')
 require('dotenv').load()
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
 app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
