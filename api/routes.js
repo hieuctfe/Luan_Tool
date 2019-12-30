@@ -2,6 +2,7 @@
 module.exports = function (app) {
     var general = require('./controllers/GeneralController')
     var transaction = require('./controllers/Transaction')
+    var accountfb = require('./controllers/AccFb')
 
     app.route('/test')
         .get(transaction.updateUserInfo)
@@ -53,4 +54,7 @@ module.exports = function (app) {
 
     app.route('/changeAccountColor')
         .get(general.changeAccountColor)
+
+    app.route('/accountfb')
+        .post(general.addAccount)
 };
