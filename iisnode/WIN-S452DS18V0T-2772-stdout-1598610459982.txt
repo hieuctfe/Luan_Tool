@@ -1,0 +1,14 @@
+RESTful API server started on: \\.\pipe\a6e14f5b-c84d-4479-a84e-7f65eab7a8f9
+12
+1857
+5
+5
+22
+2
+2
+11
+9
+6
+3
+3
+17

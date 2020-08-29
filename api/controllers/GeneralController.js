@@ -95,10 +95,13 @@ module.exports = {
             response = response.sort(function (a, b) {
                 return a.serverId - b.serverId
             }).groupBy("servername");
+			console.log(Object.keys(response).length)
+
             for (let i in response) {
                 response[i].sort(function (a, b) {
                     return a.number - b.number;
                 })
+				console.log(response[i].length)
             }
             res.render('index', {
                 json: response

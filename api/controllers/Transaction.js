@@ -1,9 +1,10 @@
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
         function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
         function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
@@ -34,7 +35,6 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-var _this = this;
 exports.__esModule = true;
 require("dotenv/config");
 var src_1 = require("../../src");
@@ -58,7 +58,8 @@ function twoDigits(d) {
     return d.toString();
 }
 Date.prototype.toMysqlFormat = function () {
-    return this.getUTCFullYear() + "-" + twoDigits(1 + this.getUTCMonth()) + "-" + twoDigits(this.getUTCDate()) + " " + twoDigits(this.getUTCHours()) + ":" + twoDigits(this.getUTCMinutes()) + ":" + twoDigits(this.getUTCSeconds());
+    return this.getUTCFullYear() + "-" + twoDigits(1 + this.getUTCMonth()) + "-" +
+        twoDigits(this.getUTCDate()) + " " + twoDigits(this.getUTCHours()) + ":" + twoDigits(this.getUTCMinutes()) + ":" + twoDigits(this.getUTCSeconds());
 };
 function doRequest(username, ig, idx) {
     return __awaiter(this, void 0, void 0, function () {
@@ -112,18 +113,18 @@ function doRequest(username, ig, idx) {
     });
 }
 module.exports = {
-    updateUserInfo: function (req, res) { return __awaiter(_this, void 0, void 0, function () {
+    updateUserInfo: function (req, res) { return __awaiter(void 0, void 0, void 0, function () {
         var userId, ig, e_1;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
                     userId = req.body.userId;
                     ig = new src_1.IgApiClient();
-                    ig.state.generateDevice("katun.meoz");
+                    ig.state.generateDevice("huong.lien331");
                     _a.label = 1;
                 case 1:
                     _a.trys.push([1, 3, , 4]);
-                    return [4 /*yield*/, ig.account.login("katun.meoz", "Yeutho123")];
+                    return [4 /*yield*/, ig.account.login("huong.lien331", "76574348")];
                 case 2:
                     _a.sent();
                     doRequest(userId, ig).then(function (res2) {
@@ -138,22 +139,21 @@ module.exports = {
             }
         });
     }); },
-    update: function (req, res) { return __awaiter(_this, void 0, void 0, function () {
+    update: function (req, res) { return __awaiter(void 0, void 0, void 0, function () {
         var ig, sql, e_2;
-        var _this = this;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
                     ig = new src_1.IgApiClient();
-                    ig.state.generateDevice("katun.meoz");
+                    ig.state.generateDevice("huong.lien331");
                     _a.label = 1;
                 case 1:
                     _a.trys.push([1, 4, , 5]);
-                    return [4 /*yield*/, ig.account.login("katun.meoz", "Yeutho123")];
+                    return [4 /*yield*/, ig.account.login("huong.lien331", "76574348")];
                 case 2:
                     _a.sent();
                     sql = 'SELECT * FROM account where serverId != 11';
-                    return [4 /*yield*/, db.query(sql, function (err, response) { return __awaiter(_this, void 0, void 0, function () {
+                    return [4 /*yield*/, db.query(sql, function (err, response) { return __awaiter(void 0, void 0, void 0, function () {
                             var links, i;
                             return __generator(this, function (_a) {
                                 switch (_a.label) {

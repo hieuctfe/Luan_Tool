@@ -1,1 +1,0 @@
-RESTful API server started on: \\.\pipe\6bdebb1a-23a5-4659-9919-287f6005f507

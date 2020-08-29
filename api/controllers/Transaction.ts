@@ -54,9 +54,9 @@ module.exports = {
     updateUserInfo: async (req, res) => {
         let userId = req.body.userId;
         const ig = new IgApiClient();
-        ig.state.generateDevice("katun.meoz");
+        ig.state.generateDevice("huong.lien331");
         try {
-            await ig.account.login("katun.meoz", "Yeutho123")
+            await ig.account.login("huong.lien331", "76574348")
             doRequest(userId, ig).then(function (res2) {
                 res.json({status: "true"})
             })
@@ -66,9 +66,9 @@ module.exports = {
     },
     update: async (req, res) => {
         const ig = new IgApiClient();
-        ig.state.generateDevice("katun.meoz");
+        ig.state.generateDevice("huong.lien331");
         try {
-            await ig.account.login("katun.meoz", "Yeutho123")
+            await ig.account.login("huong.lien331", "76574348")
             let sql = 'SELECT * FROM account where serverId != 11';
             await db.query(sql, async (err, response) => {
                 if (err) throw err;
